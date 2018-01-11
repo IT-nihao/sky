@@ -1,0 +1,2089 @@
+[ 2017-11-23T09:27:20+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0032s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'orange' ) LIMIT 1   [ RunTime:0.0043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-11-23T09:31:49+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000218s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0025s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'orange' ) LIMIT 1   [ RunTime:0.0037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000262s ]
+
+[ 2017-11-23T09:31:54+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0039s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'oranges' ) LIMIT 1   [ RunTime:0.0059s ]
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 99 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-11-23T09:34:06+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0027s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'oranges' ) LIMIT 1   [ RunTime:0.0048s ]
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-11-23T09:34:07+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000234s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0039s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'oranges' ) LIMIT 1   [ RunTime:0.0062s ]
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-11-23T09:34:08+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000223s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0031s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'oranges' ) LIMIT 1   [ RunTime:0.0053s ]
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-11-23T09:34:47+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0031s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'oranges' ) LIMIT 1   [ RunTime:0.0054s ]
+
+[ 2017-11-23T09:35:01+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0042s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'oranges' ) LIMIT 1   [ RunTime:0.0064s ]
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-11-23T09:35:06+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000217s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0032s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'orangees' ) LIMIT 1   [ RunTime:0.0053s ]
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000270s ]
+
+[ 2017-11-23T09:35:10+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0032s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'orange' ) LIMIT 1   [ RunTime:0.0045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-11-23T09:35:13+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000223s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0026s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'oranges' ) LIMIT 1   [ RunTime:0.0048s ]
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-11-23T09:35:18+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0031s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'do' ) LIMIT 1   [ RunTime:0.0034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000274s ]
+
+[ 2017-11-23T09:35:20+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0038s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'does' ) LIMIT 1   [ RunTime:0.0059s ]
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-11-23T09:35:43+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000223s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0031s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'does' ) LIMIT 1   [ RunTime:0.0052s ]
+
+[ 2017-11-23T09:35:52+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000219s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0037s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'does' ) LIMIT 1   [ RunTime:0.0060s ]
+
+[ 2017-11-23T09:36:39+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0036s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'does' ) LIMIT 1   [ RunTime:0.0058s ]
+
+[ 2017-11-23T09:36:44+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0034s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'does' ) LIMIT 1   [ RunTime:0.0056s ]
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 103 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-11-23T09:38:45+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000223s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0020s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'does' ) LIMIT 1   [ RunTime:0.0041s ]
+NOTIC: [2] substr() expects parameter 1 to be string, array given /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 99 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-11-23T09:38:46+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000231s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0036s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'does' ) LIMIT 1   [ RunTime:0.0057s ]
+NOTIC: [2] substr() expects parameter 1 to be string, array given /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 99 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-11-23T09:38:47+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000231s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0050s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'does' ) LIMIT 1   [ RunTime:0.0059s ]
+NOTIC: [2] substr() expects parameter 1 to be string, array given /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 99 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-11-23T09:38:47+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0037s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'does' ) LIMIT 1   [ RunTime:0.0060s ]
+NOTIC: [2] substr() expects parameter 1 to be string, array given /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 99 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-11-23T09:39:18+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000219s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0041s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'does' ) LIMIT 1   [ RunTime:0.0063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-11-23T09:39:54+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0026s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'does' ) LIMIT 1   [ RunTime:0.0047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-11-23T09:39:59+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0031s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'doies' ) LIMIT 1   [ RunTime:0.0052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-11-23T09:40:04+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0025s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'dos' ) LIMIT 1   [ RunTime:0.0047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000273s ]
+
+[ 2017-11-23T09:40:07+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0033s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'dos' ) LIMIT 1   [ RunTime:0.0055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-11-23T09:40:13+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000210s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0031s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'dos' ) LIMIT 1   [ RunTime:0.0052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000322s ]
+
+[ 2017-11-23T09:40:19+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0031s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'chckes' ) LIMIT 1   [ RunTime:0.0052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-11-23T09:40:30+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0030s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'buss' ) LIMIT 1   [ RunTime:0.0051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000299s ]
+
+[ 2017-11-23T09:40:33+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0036s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'buses' ) LIMIT 1   [ RunTime:0.0056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000274s ]
+
+[ 2017-11-23T09:41:05+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0030s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'families' ) LIMIT 1   [ RunTime:0.0052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-11-23T09:44:59+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000209s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0030s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'families' ) LIMIT 1   [ RunTime:0.0052s ]
+
+[ 2017-11-23T09:45:35+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0036s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'families' ) LIMIT 1   [ RunTime:0.0058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-11-23T09:48:40+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0036s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'families' ) LIMIT 1   [ RunTime:0.0057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-11-23T09:48:44+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0030s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'familied' ) LIMIT 1   [ RunTime:0.0051s ]
+NOTIC: [8] Undefined offset: 8 /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 103 行.
+NOTIC: [2] A non-numeric value encountered /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 103 行.
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-11-23T09:49:07+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0033s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'doe' ) LIMIT 1   [ RunTime:0.0055s ]
+NOTIC: [8] Undefined offset: 3 /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 103 行.
+NOTIC: [2] A non-numeric value encountered /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 103 行.
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-11-23T09:49:11+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000211s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0027s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'doed' ) LIMIT 1   [ RunTime:0.0048s ]
+NOTIC: [8] Undefined offset: 4 /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 103 行.
+NOTIC: [2] A non-numeric value encountered /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 103 行.
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-11-23T09:49:40+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000220s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0030s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'doed' ) LIMIT 1   [ RunTime:0.0051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-11-23T09:50:50+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000238s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0020s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'doed' ) LIMIT 1   [ RunTime:0.0042s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-11-23T09:50:57+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000240s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0031s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'dod' ) LIMIT 1   [ RunTime:0.0053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-11-23T09:51:01+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0036s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'doied' ) LIMIT 1   [ RunTime:0.0058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-11-23T09:51:12+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0037s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'ddd' ) LIMIT 1   [ RunTime:0.0059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-11-23T09:51:30+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000230s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0021s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bake' ) LIMIT 1   [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-11-23T09:51:33+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0025s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'baked' ) LIMIT 1   [ RunTime:0.0047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-11-23T09:51:39+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0037s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'baked' ) LIMIT 1   [ RunTime:0.0060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-11-23T09:51:39+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0027s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'baked' ) LIMIT 1   [ RunTime:0.0048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-11-23T09:51:40+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0026s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'baked' ) LIMIT 1   [ RunTime:0.0047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-11-23T09:51:52+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0025s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'buses' ) LIMIT 1   [ RunTime:0.0047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-11-23T09:52:05+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000217s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0036s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'oranges' ) LIMIT 1   [ RunTime:0.0059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000301s ]
+
+[ 2017-11-23T09:58:44+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000223s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0037s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'oranges' ) LIMIT 1   [ RunTime:0.0059s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'orang' ) LIMIT 1   [ RunTime:0.0057s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'orange' ) LIMIT 1   [ RunTime:0.0048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-11-23T09:58:58+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0044s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'buss' ) LIMIT 1   [ RunTime:0.0066s ]
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 124 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-11-23T09:59:02+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000238s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0031s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'buses' ) LIMIT 1   [ RunTime:0.0054s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bus' ) LIMIT 1   [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-11-23T09:59:08+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0026s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bus' ) LIMIT 1   [ RunTime:0.0025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-11-23T09:59:16+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0025s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'oranges' ) LIMIT 1   [ RunTime:0.0046s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'orang' ) LIMIT 1   [ RunTime:0.0045s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'orange' ) LIMIT 1   [ RunTime:0.0036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-11-23T09:59:54+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0030s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'oranges' ) LIMIT 1   [ RunTime:0.0051s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'orang' ) LIMIT 1   [ RunTime:0.0050s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'orange' ) LIMIT 1   [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-11-23T09:59:58+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000223s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0027s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'buss' ) LIMIT 1   [ RunTime:0.0047s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bus' ) LIMIT 1   [ RunTime:0.0025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-11-23T10:00:17+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0020s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'photos' ) LIMIT 1   [ RunTime:0.0042s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'photo' ) LIMIT 1   [ RunTime:0.0033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-11-23T10:00:29+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0025s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'famliies' ) LIMIT 1   [ RunTime:0.0047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000277s ]
+
+[ 2017-11-23T10:01:09+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0033s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'fox' ) LIMIT 1   [ RunTime:0.0054s ]
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 136 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-11-23T10:01:29+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0025s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'boy' ) LIMIT 1   [ RunTime:0.0024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-11-23T10:01:32+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000231s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0036s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'boys' ) LIMIT 1   [ RunTime:0.0057s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'boy' ) LIMIT 1   [ RunTime:0.0034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-11-23T10:01:35+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0031s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'boyes' ) LIMIT 1   [ RunTime:0.0053s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'boy' ) LIMIT 1   [ RunTime:0.0029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-11-23T10:01:38+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0039s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'boys' ) LIMIT 1   [ RunTime:0.0061s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'boy' ) LIMIT 1   [ RunTime:0.0037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-11-23T10:03:01+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0026s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'boys' ) LIMIT 1   [ RunTime:0.0048s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'boy' ) LIMIT 1   [ RunTime:0.0024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-11-23T10:03:07+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0030s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'boid' ) LIMIT 1   [ RunTime:0.0052s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'boi' ) LIMIT 1   [ RunTime:0.0051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-11-23T10:03:12+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0037s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'boed' ) LIMIT 1   [ RunTime:0.0059s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bo' ) LIMIT 1   [ RunTime:0.0057s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'boe' ) LIMIT 1   [ RunTime:0.0057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000313s ]
+
+[ 2017-11-23T10:03:29+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000213s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0035s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'baked' ) LIMIT 1   [ RunTime:0.0057s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bak' ) LIMIT 1   [ RunTime:0.0057s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bake' ) LIMIT 1   [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-11-23T10:03:42+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0037s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cried' ) LIMIT 1   [ RunTime:0.0059s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cry' ) LIMIT 1   [ RunTime:0.0038s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-11-23T10:03:48+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0026s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'picked' ) LIMIT 1   [ RunTime:0.0049s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'pick' ) LIMIT 1   [ RunTime:0.0039s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-11-23T10:03:57+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000216s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0027s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'baked' ) LIMIT 1   [ RunTime:0.0049s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bak' ) LIMIT 1   [ RunTime:0.0048s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bake' ) LIMIT 1   [ RunTime:0.0024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-11-23T10:08:52+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000238s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0021s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'baked' ) LIMIT 1   [ RunTime:0.0043s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bak' ) LIMIT 1   [ RunTime:0.0041s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bake' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-11-23T10:08:57+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0025s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'lying' ) LIMIT 1   [ RunTime:0.0048s ]
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 162 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000274s ]
+
+[ 2017-11-23T10:09:15+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0030s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'lying' ) LIMIT 1   [ RunTime:0.0051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-11-23T10:11:02+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0030s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'lying' ) LIMIT 1   [ RunTime:0.0052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-11-23T10:11:12+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0021s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'swimming' ) LIMIT 1   [ RunTime:0.0043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-11-23T10:11:20+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000205s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0030s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'swimming' ) LIMIT 1   [ RunTime:0.0051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-11-23T10:11:28+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0041s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'swiming' ) LIMIT 1   [ RunTime:0.0062s ]
+NOTIC: [8] Undefined variable: read_w /usr/local/nginx/html/xianshang/Application/Home/Controller/ReadController.class.php 第 164 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-11-23T10:11:51+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000231s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0032s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'swiming' ) LIMIT 1   [ RunTime:0.0055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-11-23T10:18:39+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0021s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'swiming' ) LIMIT 1   [ RunTime:0.0044s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'swim' ) LIMIT 1   [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-11-23T10:18:49+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0032s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'swimming' ) LIMIT 1   [ RunTime:0.0053s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'swimm' ) LIMIT 1   [ RunTime:0.0052s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'swimme' ) LIMIT 1   [ RunTime:0.0051s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'swim' ) LIMIT 1   [ RunTime:0.0048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-11-23T10:19:08+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0036s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bringing' ) LIMIT 1   [ RunTime:0.0058s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bring' ) LIMIT 1   [ RunTime:0.0034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-11-23T10:19:14+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0025s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'loveing' ) LIMIT 1   [ RunTime:0.0047s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'love' ) LIMIT 1   [ RunTime:0.0035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-11-23T10:19:19+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0044s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'loving' ) LIMIT 1   [ RunTime:0.0045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-11-23T10:19:32+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000216s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0027s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cutting' ) LIMIT 1   [ RunTime:0.0049s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cutt' ) LIMIT 1   [ RunTime:0.0048s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cutte' ) LIMIT 1   [ RunTime:0.0047s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cut' ) LIMIT 1   [ RunTime:0.0027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-11-23T10:19:36+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000216s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0030s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'lie' ) LIMIT 1   [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-11-23T10:20:29+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0041s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'hoping' ) LIMIT 1   [ RunTime:0.0062s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'hop' ) LIMIT 1   [ RunTime:0.0047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-11-23T10:20:46+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0030s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'planing' ) LIMIT 1   [ RunTime:0.0052s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'plan' ) LIMIT 1   [ RunTime:0.0043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-11-23T10:20:55+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0037s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'plane' ) LIMIT 1   [ RunTime:0.0049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-11-23T10:21:47+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0036s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'plane' ) LIMIT 1   [ RunTime:0.0049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-11-23T10:21:55+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0030s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'planing' ) LIMIT 1   [ RunTime:0.0052s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'plane' ) LIMIT 1   [ RunTime:0.0043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-11-23T10:22:07+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0025s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'saving' ) LIMIT 1   [ RunTime:0.0047s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'save' ) LIMIT 1   [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-11-23T10:22:21+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0037s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'tying' ) LIMIT 1   [ RunTime:0.0058s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'tie' ) LIMIT 1   [ RunTime:0.0055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000274s ]
+
+[ 2017-11-23T10:22:33+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0036s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'vying' ) LIMIT 1   [ RunTime:0.0058s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'vie' ) LIMIT 1   [ RunTime:0.0057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-11-23T10:23:53+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0032s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'vying' ) LIMIT 1   [ RunTime:0.0054s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'vie' ) LIMIT 1   [ RunTime:0.0052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000300s ]
+
+[ 2017-11-23T10:23:57+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000213s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0026s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'fox' ) LIMIT 1   [ RunTime:0.0047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-11-23T10:24:00+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000223s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0031s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'foxes' ) LIMIT 1   [ RunTime:0.0052s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'fox' ) LIMIT 1   [ RunTime:0.0051s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'foxe' ) LIMIT 1   [ RunTime:0.0051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-11-23T10:24:50+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000214s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0037s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'foxes' ) LIMIT 1   [ RunTime:0.0059s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'fox' ) LIMIT 1   [ RunTime:0.0058s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'foxe' ) LIMIT 1   [ RunTime:0.0056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-11-23T10:25:23+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0033s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'foxes' ) LIMIT 1   [ RunTime:0.0055s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'fox' ) LIMIT 1   [ RunTime:0.0054s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'foxe' ) LIMIT 1   [ RunTime:0.0054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-11-23T10:25:37+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000219s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0039s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'foxs' ) LIMIT 1   [ RunTime:0.0059s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'fox' ) LIMIT 1   [ RunTime:0.0058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-11-23T10:25:56+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000241s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0042s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'foxies' ) LIMIT 1   [ RunTime:0.0063s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'foxy' ) LIMIT 1   [ RunTime:0.0062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000270s ]
+
+[ 2017-11-23T10:26:06+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0031s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'foxies' ) LIMIT 1   [ RunTime:0.0052s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'foxy' ) LIMIT 1   [ RunTime:0.0051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-11-23T10:26:13+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000219s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0032s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cries' ) LIMIT 1   [ RunTime:0.0053s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cry' ) LIMIT 1   [ RunTime:0.0034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-11-23T10:26:19+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000214s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0027s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cryes' ) LIMIT 1   [ RunTime:0.0048s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cry' ) LIMIT 1   [ RunTime:0.0027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-11-23T10:26:22+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0036s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'crys' ) LIMIT 1   [ RunTime:0.0058s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cry' ) LIMIT 1   [ RunTime:0.0037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-11-23T10:26:28+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000214s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0026s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cryd' ) LIMIT 1   [ RunTime:0.0047s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cry' ) LIMIT 1   [ RunTime:0.0027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-11-23T10:26:31+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000214s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0037s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cryed' ) LIMIT 1   [ RunTime:0.0059s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'cry' ) LIMIT 1   [ RunTime:0.0038s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000299s ]
+
+[ 2017-11-23T10:26:37+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0031s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'backed' ) LIMIT 1   [ RunTime:0.0054s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'back' ) LIMIT 1   [ RunTime:0.0029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-11-23T10:27:02+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000220s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0033s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'baked' ) LIMIT 1   [ RunTime:0.0055s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bak' ) LIMIT 1   [ RunTime:0.0053s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bake' ) LIMIT 1   [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-11-23T10:27:08+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0031s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bakeed' ) LIMIT 1   [ RunTime:0.0053s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bake' ) LIMIT 1   [ RunTime:0.0028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-11-23T10:27:11+08:00 ] 101.30.19.128 /xianshang/index.php/Read/read_word
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000220s ]
+SQL: SHOW COLUMNS FROM `danci_one` [ RunTime:0.0026s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bakeeed' ) LIMIT 1   [ RunTime:0.0047s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bakee' ) LIMIT 1   [ RunTime:0.0046s ]
+SQL: SELECT `read_danci`,`read_jieshi`,`read_ciyi` FROM `danci_one` WHERE ( read_danci = 'bakeee' ) LIMIT 1   [ RunTime:0.0046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-11-23T13:54:54+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000216s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0030s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0025s ]
+
+[ 2017-11-23T13:55:58+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000212s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0034s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0030s ]
+
+[ 2017-11-23T14:01:00+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0031s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0027s ]
+
+[ 2017-11-23T14:02:18+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0021s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0016s ]
+
+[ 2017-11-23T14:04:27+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0025s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0021s ]
+
+[ 2017-11-23T14:05:43+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000220s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0030s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0026s ]
+
+[ 2017-11-23T14:06:26+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000209s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0032s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0028s ]
+
+[ 2017-11-23T14:06:26+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000212s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0033s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0028s ]
+
+[ 2017-11-23T14:08:47+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000223s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0032s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0027s ]
+
+[ 2017-11-23T14:08:56+08:00 ] 101.30.19.128 /xianshang/index.php/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000231s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0042s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0037s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0211s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0038s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0039s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0038s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0038s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0038s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0038s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0038s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0039s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0038s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0038s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0038s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0039s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0038s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-11-23T14:10:37+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000220s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0032s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0027s ]
+
+[ 2017-11-23T14:10:42+08:00 ] 101.30.19.128 /xianshang/index.php/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000206s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0040s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0036s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0038s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0036s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0037s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0036s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0037s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0036s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0037s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0036s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0037s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0036s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0037s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0036s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0037s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-11-23T14:12:42+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0032s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0027s ]
+
+[ 2017-11-23T14:12:48+08:00 ] 101.30.19.128 /xianshang/index.php/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000218s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0038s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0034s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0036s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0034s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0035s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0034s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0035s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0034s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0035s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0034s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0035s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0034s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0035s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0034s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0035s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-11-23T14:13:55+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0031s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0027s ]
+
+[ 2017-11-23T14:14:00+08:00 ] 101.30.19.128 /xianshang/index.php/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0038s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0034s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0036s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0035s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0036s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0035s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0035s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0035s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0036s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0035s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0035s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0035s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0035s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0035s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0035s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-11-23T14:24:06+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0032s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0027s ]
+
+[ 2017-11-23T14:24:10+08:00 ] 101.30.19.128 /xianshang/index.php/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0031s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0027s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0028s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0027s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0028s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0027s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0028s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0027s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0028s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0027s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0028s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0027s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0028s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0027s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0027s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-11-23T14:27:55+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000214s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0032s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0027s ]
+
+[ 2017-11-23T14:27:59+08:00 ] 101.30.19.128 /xianshang/index.php/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000205s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0037s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0032s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0034s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0033s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0033s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0033s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0034s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0033s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0033s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0033s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-11-23T14:29:20+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0027s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0022s ]
+
+[ 2017-11-23T14:29:25+08:00 ] 101.30.19.128 /xianshang/index.php/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000208s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0036s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0031s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0032s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0032s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0032s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0032s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0032s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0032s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0032s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0032s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0032s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0032s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0031s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0032s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-11-23T14:29:38+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000214s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0021s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0017s ]
+
+[ 2017-11-23T14:29:42+08:00 ] 101.30.19.128 /xianshang/index.php/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0037s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0033s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0034s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0033s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0034s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0033s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0033s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0033s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0033s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0033s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-11-23T14:30:55+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000213s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0036s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0032s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0031s ]
+
+[ 2017-11-23T14:31:39+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000220s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0027s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0022s ]
+
+[ 2017-11-23T14:31:42+08:00 ] 101.30.19.128 /xianshang/index.php/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000209s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0025s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0021s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0022s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0021s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0022s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0021s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0022s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0021s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0022s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0021s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0022s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0021s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0022s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0021s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0021s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-11-23T14:32:47+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000205s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0033s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0028s ]
+
+[ 2017-11-23T14:32:54+08:00 ] 101.30.19.128 /xianshang/index.php/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000219s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0032s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0028s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0030s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0029s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0029s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0028s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0029s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0029s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0029s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0029s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0029s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0028s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0029s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0029s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0029s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-11-23T14:34:16+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000206s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0035s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0031s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0030s ]
+
+[ 2017-11-23T14:34:20+08:00 ] 101.30.19.128 /xianshang/index.php/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0026s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0022s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0023s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0022s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0023s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0022s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0023s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0022s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0023s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0022s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0023s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0022s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0023s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0022s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0023s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-11-23T14:34:58+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0038s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0033s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0033s ]
+
+[ 2017-11-23T14:35:02+08:00 ] 101.30.19.128 /xianshang/index.php/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000215s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0036s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0032s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0032s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0032s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0032s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0032s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0033s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0032s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0032s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0032s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0032s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-11-23T14:48:30+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0031s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0027s ]
+
+[ 2017-11-23T14:51:16+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0038s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0033s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0033s ]
+
+[ 2017-11-23T16:50:31+08:00 ] 101.30.19.128 /xianshang/index.php/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000216s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0032s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0027s ]
+

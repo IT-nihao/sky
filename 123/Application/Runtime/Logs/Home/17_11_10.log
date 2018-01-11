@@ -1,0 +1,29 @@
+[ 2017-11-10T14:58:13+08:00 ] 101.30.17.78 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+SQL: select distinct read_level_id,read_type_id,read_title,read_text,add_time,read_time,level_name from class_read,yixue_level where class_read.read_level_id=yixue_level.level_id and read_level_id = '2' and read_type_id = '1' [ RunTime:0.0031s ]
+SQL: select distinct topic_timu from class_read where read_level_id = 2 and read_type_id = 1 [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0020s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell`,`read_id` FROM `class_read` WHERE ( topic_timu = 'kkkkk' and read_level_id = '2' and read_type_id = '1' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell`,`read_id` FROM `class_read` WHERE ( topic_timu = 'yyyyy' and read_level_id = '2' and read_type_id = '1' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell`,`read_id` FROM `class_read` WHERE ( topic_timu = 'tttt' and read_level_id = '2' and read_type_id = '1' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell`,`read_id` FROM `class_read` WHERE ( topic_timu = 'ddd' and read_level_id = '2' and read_type_id = '1' )  [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-11-10T15:01:33+08:00 ] 101.30.17.78 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = '3049a1f0f1c808cdaa4fbed0e01649b1' ) LIMIT 1   [ RunTime:0.0018s ]
+

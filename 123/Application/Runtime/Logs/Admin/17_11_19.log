@@ -1,0 +1,1202 @@
+[ 2017-11-19T21:01:39+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+ERR: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND'
+
+[ 2017-11-19T21:01:40+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+ERR: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND'
+
+[ 2017-11-19T21:01:44+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000223s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003404s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000241s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-11-19T21:01:48+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+ERR: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND'
+
+[ 2017-11-19T21:04:15+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000240s ]
+ERR: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND'
+
+[ 2017-11-19T21:06:44+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+ERR: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND'
+
+[ 2017-11-19T21:06:46+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003325s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003339s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000259s ]
+
+[ 2017-11-19T21:41:38+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+ERR: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND'
+
+[ 2017-11-19T21:54:02+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'39.106.59.81' (using password: YES)
+
+[ 2017-11-19T21:54:56+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'39.106.59.81' (using password: YES)
+
+[ 2017-11-19T21:55:08+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003395s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003412s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000259s ]
+
+[ 2017-11-19T21:55:11+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000216s ]
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'39.106.59.81' (using password: YES)
+
+[ 2017-11-19T21:56:04+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'39.106.59.81' (using password: YES)
+
+[ 2017-11-19T21:56:11+08:00 ] 101.30.4.77 /my/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000021s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003295s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003309s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000086s ]
+
+[ 2017-11-19T21:56:12+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002402s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-11-19T21:56:15+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000231s ]
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'39.106.59.81' (using password: YES)
+
+[ 2017-11-19T21:59:41+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+ERR: SQLSTATE[42000] [1049] Unknown database 'ygyb'
+
+[ 2017-11-19T22:00:02+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = '' and user_pwd = '' ) LIMIT 1   [ RunTime:0.0023s ]
+ERR: 系统不支持:memcache
+
+[ 2017-11-19T22:23:38+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = '' and user_pwd = '' ) LIMIT 1   [ RunTime:0.0033s ]
+ERR: 系统不支持:memcache
+
+[ 2017-11-19T22:23:40+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000231s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = '' and user_pwd = '' ) LIMIT 1   [ RunTime:0.0029s ]
+ERR: 系统不支持:memcache
+
+[ 2017-11-19T22:23:56+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000217s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = '' and user_pwd = '' ) LIMIT 1   [ RunTime:0.0026s ]
+ERR: 系统不支持:memcache
+
+[ 2017-11-19T22:23:58+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '698d51a19d8a121ce581499d7b701668' ) LIMIT 1   [ RunTime:0.0027s ]
+ERR: 系统不支持:memcache
+
+[ 2017-11-19T22:24:00+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000209s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = '' and user_pwd = '' ) LIMIT 1   [ RunTime:0.0027s ]
+ERR: 系统不支持:memcache
+
+[ 2017-11-19T22:24:01+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003358s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-11-19T22:24:48+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '698d51a19d8a121ce581499d7b701668' ) LIMIT 1   [ RunTime:0.0033s ]
+ERR: 系统不支持:memcache
+
+[ 2017-11-19T22:26:59+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = '' and user_pwd = '' ) LIMIT 1   [ RunTime:0.0032s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000032s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002858s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002874s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-11-19T22:27:03+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '698d51a19d8a121ce581499d7b701668' ) LIMIT 1   [ RunTime:0.0029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003762s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003778s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000233s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000243s ]
+
+[ 2017-11-19T22:27:04+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+ERR: Redis server went away
+
+[ 2017-11-19T22:27:23+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '6bf2a275d9f6c8db6cd5921c92fbbc32' ) LIMIT 1   [ RunTime:0.0027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000031s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002941s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000079s ]
+
+[ 2017-11-19T22:27:26+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '097dab3a263de792b9ea91516dd0ea2b' ) LIMIT 1   [ RunTime:0.0027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000031s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002762s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002778s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-11-19T22:27:27+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '097dab3a263de792b9ea91516dd0ea2b' ) LIMIT 1   [ RunTime:0.0026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000033s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002851s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002865s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-11-19T22:27:29+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '097dab3a263de792b9ea91516dd0ea2b' ) LIMIT 1   [ RunTime:0.0033s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000033s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002906s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-11-19T22:27:30+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '097dab3a263de792b9ea91516dd0ea2b' ) LIMIT 1   [ RunTime:0.0029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000019s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000033s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002820s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-11-19T22:27:31+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '097dab3a263de792b9ea91516dd0ea2b' ) LIMIT 1   [ RunTime:0.0033s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000019s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000034s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002903s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002918s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-11-19T22:27:36+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '698d51a19d8a121ce581499d7b701668' ) LIMIT 1   [ RunTime:0.0032s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000032s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002218s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002233s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-11-19T22:30:27+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000234s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '698d51a19d8a121ce581499d7b701668' ) LIMIT 1   [ RunTime:0.0026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000020s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003747s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003763s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000230s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000240s ]
+
+[ 2017-11-19T22:30:28+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+ERR: Redis server went away
+
+[ 2017-11-19T22:38:04+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+ERR: Redis server went away
+
+[ 2017-11-19T22:41:01+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000223s ]
+ERR: Redis server went away
+
+[ 2017-11-19T22:41:02+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000211s ]
+ERR: Redis server went away
+
+[ 2017-11-19T22:43:00+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+ERR: Redis server went away
+
+[ 2017-11-19T22:43:00+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+
+[ 2017-11-19T22:43:00+08:00 ] 101.30.4.77 /my/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000204s ]
+
+[ 2017-11-19T22:43:00+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003274s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003293s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-11-19T22:43:00+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000217s ]
+
+[ 2017-11-19T22:43:00+08:00 ] 101.30.4.77 /my/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000223s ]
+
+[ 2017-11-19T22:43:17+08:00 ] 101.30.4.77 /my/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000238s ]
+ERR: Redis server went away
+
+[ 2017-11-19T22:43:27+08:00 ] 101.30.4.77 /my/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+
+[ 2017-11-19T22:43:34+08:00 ] 101.30.4.77 /my/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000223s ]
+ERR: Redis server went away
+
+[ 2017-11-19T23:08:41+08:00 ] 101.30.4.77 /my/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+ERR: Redis server went away
+
+[ 2017-11-19T23:10:51+08:00 ] 101.30.4.77 /my/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+ERR: Redis server went away
+
+[ 2017-11-19T23:59:04+08:00 ] 101.30.4.77 /my/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036476s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036491s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006014s ]
+
+[ 2017-11-19T23:59:05+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009675s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000061s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000881s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+
+[ 2017-11-19T23:59:10+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0202s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '698d51a19d8a121ce581499d7b701668' ) LIMIT 1   [ RunTime:0.0242s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000040s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002897s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002913s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-11-19T23:59:12+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000209s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000040s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003018s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000226s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000237s ]
+
+[ 2017-11-19T23:59:12+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000218s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003112s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003126s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000241s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000251s ]
+
+[ 2017-11-19T23:59:13+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000212s ]
+SQL: select DISTINCT CONCAT(power_controller,'/',power_action) as qx,yixue_power.* from yixue_power where power_status=1; [ RunTime:0.4644s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030881s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030896s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-11-19T23:59:13+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004543s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004563s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000263s ]
+
+[ 2017-11-19T23:59:15+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Power/power_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+SQL: SHOW COLUMNS FROM `yixue_power` [ RunTime:0.0024s ]
+SQL: SELECT `power_id`,`power_name`,`power_controller`,`power_action`,`power_pid`,`power_status` FROM `yixue_power`  [ RunTime:0.0021s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /usr/local/nginx/html/my/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010756s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010770s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000224s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000235s ]
+
+[ 2017-11-19T23:59:17+08:00 ] 101.30.4.77 /my/xianshang/admin.php/User/user_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `yixue_user`  [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `yixue_user_role` [ RunTime:0.0044s ]
+SQL: SELECT `role_name` FROM `yixue_user_role` left join yixue_role on yixue_user_role.yixue_role_id = yixue_role.role_id  WHERE ( yixue_user_id = '13' )  [ RunTime:0.0055s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /usr/local/nginx/html/my/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000042s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004199s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000264s ]
+
+[ 2017-11-19T23:59:18+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Role/role_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000220s ]
+SQL: SHOW COLUMNS FROM `yixue_role` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `yixue_role`  [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `yixue_power_role` [ RunTime:0.0531s ]
+SQL: SELECT `power_name` FROM `yixue_power_role` left join yixue_power on yixue_power_role.yixue_power_id = yixue_power.power_id  WHERE ( yixue_role_id=8 )  [ RunTime:0.0078s ]
+SQL: SELECT `power_name` FROM `yixue_power_role` left join yixue_power on yixue_power_role.yixue_power_id = yixue_power.power_id  WHERE ( yixue_role_id=9 )  [ RunTime:0.0029s ]
+SQL: SELECT `power_name` FROM `yixue_power_role` left join yixue_power on yixue_power_role.yixue_power_id = yixue_power.power_id  WHERE ( yixue_role_id=15 )  [ RunTime:0.0028s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /usr/local/nginx/html/my/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004558s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004573s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-11-19T23:59:23+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000223s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000033s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002270s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002285s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-11-19T23:59:23+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000217s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000235s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000247s ]
+
+[ 2017-11-19T23:59:23+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000204s ]
+SQL: select DISTINCT CONCAT(power_controller,'/',power_action) as qx,yixue_power.* from yixue_power_role left join yixue_power on yixue_power_role.yixue_power_id=yixue_power.power_id where yixue_role_id in(select yixue_role_id from yixue_user_role where yixue_user_id='') and yixue_power.power_status=1 [ RunTime:0.0023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003798s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000222s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000233s ]
+
+[ 2017-11-19T23:59:23+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000240s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002454s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000244s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000260s ]
+
+[ 2017-11-19T23:59:26+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000215s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002314s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002327s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000232s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-11-19T23:59:29+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000206s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '698d51a19d8a121ce581499d7b701668' ) LIMIT 1   [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002848s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000061s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000239s ]
+
+[ 2017-11-19T23:59:30+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000032s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002289s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-11-19T23:59:30+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002371s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002384s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000249s ]
+
+[ 2017-11-19T23:59:30+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000219s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002509s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000254s ]
+
+[ 2017-11-19T23:59:30+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000206s ]
+SQL: select DISTINCT CONCAT(power_controller,'/',power_action) as qx,yixue_power.* from yixue_power where power_status=1; [ RunTime:0.0023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003803s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000217s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000227s ]
+
+[ 2017-11-19T23:59:31+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Power/power_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+SQL: SHOW COLUMNS FROM `yixue_power` [ RunTime:0.0030s ]
+SQL: SELECT `power_id`,`power_name`,`power_controller`,`power_action`,`power_pid`,`power_status` FROM `yixue_power`  [ RunTime:0.0027s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /usr/local/nginx/html/my/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003972s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003987s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-11-19T23:59:33+08:00 ] 101.30.4.77 /my/xianshang/admin.php/User/user_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000209s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `yixue_user`  [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `yixue_user_role` [ RunTime:0.0023s ]
+SQL: SELECT `role_name` FROM `yixue_user_role` left join yixue_role on yixue_user_role.yixue_role_id = yixue_role.role_id  WHERE ( yixue_user_id = '13' )  [ RunTime:0.0023s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /usr/local/nginx/html/my/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003473s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003487s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000224s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000235s ]
+
+[ 2017-11-19T23:59:33+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Role/role_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+SQL: SHOW COLUMNS FROM `yixue_role` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `yixue_role`  [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `yixue_power_role` [ RunTime:0.0024s ]
+SQL: SELECT `power_name` FROM `yixue_power_role` left join yixue_power on yixue_power_role.yixue_power_id = yixue_power.power_id  WHERE ( yixue_role_id=8 )  [ RunTime:0.0023s ]
+SQL: SELECT `power_name` FROM `yixue_power_role` left join yixue_power on yixue_power_role.yixue_power_id = yixue_power.power_id  WHERE ( yixue_role_id=9 )  [ RunTime:0.0022s ]
+SQL: SELECT `power_name` FROM `yixue_power_role` left join yixue_power on yixue_power_role.yixue_power_id = yixue_power.power_id  WHERE ( yixue_role_id=15 )  [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /usr/local/nginx/html/my/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003769s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-11-19T23:59:35+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Students/students_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0269s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yixue_students` WHERE `students_name` LIKE '%%' LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT `students_id`,`students_name`,`students_tel`,`students_sex`,`students_school`,`students_garde`,`students_course`,`students_patriarch`,`patriarch_tel`,`students_birthday`,`students_home` FROM `yixue_students` WHERE `students_name` LIKE '%%' ORDER BY students_id LIMIT 0,3   [ RunTime:0.0028s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /usr/local/nginx/html/my/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Undefined index: user_id /usr/local/nginx/html/my/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 75 行.
+NOTIC: [8] Undefined index: students_accredit /usr/local/nginx/html/my/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 80 行.
+NOTIC: [8] Undefined index: students_campus /usr/local/nginx/html/my/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 82 行.
+NOTIC: [8] Undefined index: user_id /usr/local/nginx/html/my/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 75 行.
+NOTIC: [8] Undefined index: students_accredit /usr/local/nginx/html/my/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 80 行.
+NOTIC: [8] Undefined index: students_campus /usr/local/nginx/html/my/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 82 行.
+NOTIC: [8] Undefined index: user_id /usr/local/nginx/html/my/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 75 行.
+NOTIC: [8] Undefined index: students_accredit /usr/local/nginx/html/my/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 80 行.
+NOTIC: [8] Undefined index: students_campus /usr/local/nginx/html/my/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004786s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-11-19T23:59:36+08:00 ] 101.30.4.77 /my/xianshang/admin.php/Read/read_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000205s ]
+SQL: SELECT count(DISTINCT read_type_id,read_level_id) as count FROM class_read where read_title like '%%' [ RunTime:0.0474s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0030s ]
+SQL: SELECT DISTINCT  `read_level_id`,`read_type_id`,`read_title`,`read_text`,`add_time`,`read_time`,`type_name`,`level_name` FROM `class_read` INNER JOIN read_type on class_read.read_type_id = read_type.type_id INNER JOIN yixue_level on class_read.read_level_id = yixue_level.level_id  WHERE `read_title` LIKE '%%' LIMIT 0,3   [ RunTime:0.0100s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /usr/local/nginx/html/my/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined index: user_id /usr/local/nginx/html/my/xianshang/Application/Runtime/Cache/Admin/4893aee25586c54d5766b1255158d6f1.php 第 69 行.
+NOTIC: [8] Undefined index: user_id /usr/local/nginx/html/my/xianshang/Application/Runtime/Cache/Admin/4893aee25586c54d5766b1255158d6f1.php 第 69 行.
+NOTIC: [8] Undefined index: user_id /usr/local/nginx/html/my/xianshang/Application/Runtime/Cache/Admin/4893aee25586c54d5766b1255158d6f1.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027798s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000291s ]
+

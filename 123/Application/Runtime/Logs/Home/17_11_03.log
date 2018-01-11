@@ -1,0 +1,459 @@
+[ 2017-11-03T09:13:05+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [2] MemcachePool::get(): Invalid key /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Cache/Driver/Memcache.class.php 第 55 行.
+
+[ 2017-11-03T09:13:16+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369405' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369405' and students_pwd = '3049a1f0f1c808cdaa4fbed0e01649b1' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-11-03T09:13:47+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+NOTIC: [2] MemcachePool::get(): Invalid key /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Cache/Driver/Memcache.class.php 第 55 行.
+
+[ 2017-11-03T09:14:08+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-11-03T09:14:21+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-11-03T09:14:46+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-11-03T09:14:53+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0023s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369405' ) LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369405' and students_pwd = '3049a1f0f1c808cdaa4fbed0e01649b1' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-11-03T09:15:12+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-11-03T09:15:22+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-11-03T09:18:22+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-11-03T09:18:52+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-11-03T09:23:24+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+NOTIC: [2] MemcachePool::get(): Invalid key /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Cache/Driver/Memcache.class.php 第 55 行.
+
+[ 2017-11-03T09:23:34+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+NOTIC: [2] MemcachePool::get(): Invalid key /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Cache/Driver/Memcache.class.php 第 55 行.
+
+[ 2017-11-03T09:23:39+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-11-03T09:23:46+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-11-03T09:23:47+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-11-03T09:23:51+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-11-03T09:23:54+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-11-03T09:24:05+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+NOTIC: [2] MemcachePool::get(): Invalid key /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Cache/Driver/Memcache.class.php 第 55 行.
+
+[ 2017-11-03T09:24:12+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-11-03T09:24:29+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-11-03T09:26:24+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-11-03T09:26:28+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-11-03T09:26:32+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-11-03T09:26:49+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369405' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369405' and students_pwd = '3049a1f0f1c808cdaa4fbed0e01649b1' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-11-03T09:27:09+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-11-03T09:27:21+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+NOTIC: [2] MemcachePool::get(): Invalid key /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Cache/Driver/Memcache.class.php 第 55 行.
+
+[ 2017-11-03T09:27:25+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-11-03T09:27:32+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-11-03T09:33:05+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-11-03T09:33:14+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-11-03T09:33:17+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-11-03T09:33:24+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+
+[ 2017-11-03T09:33:25+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-11-03T09:33:26+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-11-03T09:33:31+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-11-03T09:34:05+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-11-03T09:34:22+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-11-03T09:35:16+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-11-03T09:35:20+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-11-03T09:35:46+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-11-03T09:35:48+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-11-03T09:36:00+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-11-03T09:36:01+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-11-03T09:36:09+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-11-03T09:36:24+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-11-03T09:36:30+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-11-03T09:36:34+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-11-03T09:37:51+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-11-03T09:37:59+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0021s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0017s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0019s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0023s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0020s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0019s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0020s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-11-03T21:11:37+08:00 ] 101.30.4.209 /yantian/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-11-03T21:11:51+08:00 ] 101.30.4.209 /yantian/xianshang/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+

@@ -1,0 +1,979 @@
+[ 2017-11-08T15:21:16+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+
+[ 2017-11-08T15:25:03+08:00 ] 101.30.4.209 /yantian/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-11-08T15:25:31+08:00 ] 101.30.4.209 /yantian/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-11-08T15:50:55+08:00 ] 101.30.4.209 /yantian/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-11-08T15:52:22+08:00 ] 101.30.4.209 /yantian/xianshang/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+ERR: 非法操作:top
+
+[ 2017-11-08T15:52:22+08:00 ] 101.30.4.209 /yantian/xianshang/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+ERR: 非法操作:left
+
+[ 2017-11-08T15:52:22+08:00 ] 101.30.4.209 /yantian/xianshang/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+ERR: 非法操作:main
+
+[ 2017-11-08T15:52:40+08:00 ] 101.30.4.209 /yantian/xianshang/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+ERR: 非法操作:top
+
+[ 2017-11-08T15:52:40+08:00 ] 101.30.4.209 /yantian/xianshang/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+ERR: 非法操作:left
+
+[ 2017-11-08T15:52:40+08:00 ] 101.30.4.209 /yantian/xianshang/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000351s ]
+ERR: 非法操作:main
+
+[ 2017-11-08T15:54:21+08:00 ] 101.30.4.209 /yantian/xianshang/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+ERR: 非法操作:top
+
+[ 2017-11-08T15:54:21+08:00 ] 101.30.4.209 /yantian/xianshang/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+ERR: 非法操作:left
+
+[ 2017-11-08T15:54:21+08:00 ] 101.30.4.209 /yantian/xianshang/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+ERR: 非法操作:main
+
+[ 2017-11-08T15:54:27+08:00 ] 101.30.4.209 /yantian/xianshang/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+ERR: 非法操作:top
+
+[ 2017-11-08T15:54:27+08:00 ] 101.30.4.209 /yantian/xianshang/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+ERR: 非法操作:main
+
+[ 2017-11-08T15:54:27+08:00 ] 101.30.4.209 /yantian/xianshang/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000344s ]
+ERR: 非法操作:left
+
+[ 2017-11-08T15:54:31+08:00 ] 101.30.4.209 /yantian/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-11-08T15:54:36+08:00 ] 101.30.4.209 /yantian/xianshang/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+ERR: 非法操作:main
+
+[ 2017-11-08T15:54:36+08:00 ] 101.30.4.209 /yantian/xianshang/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+ERR: 非法操作:left
+
+[ 2017-11-08T15:54:36+08:00 ] 101.30.4.209 /yantian/xianshang/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+ERR: 非法操作:top
+
+[ 2017-11-08T15:56:23+08:00 ] 101.30.4.209 /yantian/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-11-08T15:57:42+08:00 ] 101.30.4.209 /yantian/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-11-08T15:58:23+08:00 ] 101.30.4.209 /yantian/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-11-08T16:06:08+08:00 ] 101.30.4.209 /yantian/xianshang/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-11-08T16:30:15+08:00 ] 101.30.4.209 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-11-08T16:33:41+08:00 ] 101.30.4.209 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+
+[ 2017-11-08T16:45:40+08:00 ] 101.30.4.209 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0023s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-11-08T16:46:09+08:00 ] 101.30.4.209 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0023s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-11-08T16:46:33+08:00 ] 101.30.4.209 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = '3049a1f0f1c808cdaa4fbed0e01649b1' ) LIMIT 1   [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-11-08T16:46:52+08:00 ] 101.30.4.209 /index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_tel` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-08T16:47:08+08:00 ] 101.30.4.209 /index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_tel` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-08T16:47:36+08:00 ] 101.30.4.209 /index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_tel` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: INSERT INTO `yixue_students` (`students_tel`,`students_pwd`,`students_time`,`students_accredit`) VALUES ('13611369402','3049a1f0f1c808cdaa4fbed0e01649b1','1510130856','11') [ RunTime:0.0041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-11-08T16:47:42+08:00 ] 101.30.4.209 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = '3049a1f0f1c808cdaa4fbed0e01649b1' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-08T16:48:01+08:00 ] 101.30.4.209 /index.php/Home/Index/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000347s ]
+ERR: 非法操作:Test
+
+[ 2017-11-08T16:48:34+08:00 ] 101.30.4.209 /index.php/Home/Index/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+ERR: 非法操作:Test
+
+[ 2017-11-08T16:49:01+08:00 ] 101.30.4.209 /index.php/Home/Index/Test/start_time
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+ERR: 非法操作:Test
+
+[ 2017-11-08T16:50:22+08:00 ] 101.30.4.209 /index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+NOTIC: [2] MemcachePool::get(): Invalid key /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Cache/Driver/Memcache.class.php 第 55 行.
+
+[ 2017-11-08T16:50:30+08:00 ] 101.30.4.209 /index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+ERR: 无法加载控制器:Login
+
+[ 2017-11-08T16:50:35+08:00 ] 101.30.4.209 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-11-08T16:50:45+08:00 ] 101.30.4.209 /index.php/Home/Index/Test/start_time
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+ERR: 非法操作:Test
+
+[ 2017-11-08T16:51:40+08:00 ] 101.30.4.209 /index.php/Home/Index/Test/start_time
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+ERR: 非法操作:Test
+
+[ 2017-11-08T16:52:39+08:00 ] 101.30.4.209 /index.php/Home/Test/start_time
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-11-08T16:52:43+08:00 ] 101.30.4.209 /index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0022s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0017s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0214s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0019s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0020s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-11-08T16:53:36+08:00 ] 101.30.4.209 /index.php/Home/Evel/evels
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000351s ]
+ERR: 无法加载控制器:Evel
+
+[ 2017-11-08T16:53:52+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0023s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '1' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: select distinct topic_timu from class_read where read_level_id = 1 [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '1' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '2' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '3' )  [ RunTime:0.0020s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '4' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '5' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '6' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '7' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '8' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '9' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '10' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '11' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '12' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '13' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '14' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '15' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '16' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '17' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '18' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '19' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '20' )  [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-11-08T16:55:09+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '1' and read_type_id = '2' ) LIMIT 1   [ RunTime:0.0019s ]
+SQL: select distinct topic_timu from class_read where read_level_id = 1 [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '1' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '2' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '3' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '4' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '5' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '6' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '7' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '8' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '9' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '10' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '11' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '12' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '13' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '14' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '15' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '16' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '17' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '18' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '19' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '20' )  [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-11-08T16:55:29+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '1' and read_type_id = '3' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: select distinct topic_timu from class_read where read_level_id = 1 [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '1' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '2' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '3' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '4' )  [ RunTime:0.0020s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '5' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '6' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '7' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '8' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '9' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '10' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '11' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '12' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '13' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '14' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '15' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '16' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '17' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '18' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '19' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '20' )  [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-11-08T16:55:35+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '2' and read_type_id = '3' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: select distinct topic_timu from class_read where read_level_id = 2 [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'kkkkk' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'yyyyy' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'tttt' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'ddd' )  [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-11-08T16:55:39+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '33' and read_type_id = '3' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: select distinct topic_timu from class_read where read_level_id = 33 [ RunTime:0.0018s ]
+NOTIC: [8] Undefined variable: mmm /var/www/html/yantian/xianshang/Application/Home/Controller/ReadController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-11-08T16:55:51+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0024s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '3' and read_type_id = '3' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: select distinct topic_timu from class_read where read_level_id = 3 [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'kkkkk' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'yyyyy' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'tttt' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'ddd' )  [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-11-08T16:56:09+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '3' and read_type_id = '2' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: select distinct topic_timu from class_read where read_level_id = 3 [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'kkkkk' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'yyyyy' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'tttt' )  [ RunTime:0.0023s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'ddd' )  [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-11-08T16:56:16+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000350s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '3' and read_type_id = '1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: select distinct topic_timu from class_read where read_level_id = 3 [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'kkkkk' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'yyyyy' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'tttt' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'ddd' )  [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-11-08T16:56:42+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0023s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '1' and read_type_id = '2' ) LIMIT 1   [ RunTime:0.0019s ]
+SQL: select distinct topic_timu from class_read where read_level_id = 1 [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '1' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '2' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '3' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '4' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '5' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '6' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '7' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '8' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '9' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '10' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '11' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '12' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '13' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '14' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '15' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '16' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '17' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '18' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '19' )  [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = '20' )  [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-11-08T16:57:54+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '4' and read_type_id = '1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: select distinct topic_timu from class_read where read_level_id = 4 [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'kkkkk' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'yyyyy' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'tttt' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'ddd' )  [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-11-08T16:58:02+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '9' and read_type_id = '1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: select distinct topic_timu from class_read where read_level_id = 9 [ RunTime:0.0018s ]
+NOTIC: [8] Undefined variable: mmm /var/www/html/yantian/xianshang/Application/Home/Controller/ReadController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-11-08T16:58:41+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '9' and read_type_id = '1' ) LIMIT 1   [ RunTime:0.0019s ]
+
+[ 2017-11-08T16:58:46+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '5' and read_type_id = '1' ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2017-11-08T16:58:51+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '3' and read_type_id = '1' ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2017-11-08T17:00:37+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0023s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '3' and read_type_id = '1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: select distinct topic_timu from class_read where read_level_id = 3 [ RunTime:0.0019s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'kkkkk' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'yyyyy' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'tttt' )  [ RunTime:0.0018s ]
+SQL: SELECT `topic_text`,`yes_no`,`topic_spell` FROM `class_read` WHERE ( topic_timu = 'ddd' )  [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-11-08T17:00:39+08:00 ] 101.30.4.209 /index.php/Home/Read/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: SELECT `read_type_id`,`read_title`,`read_text`,`read_time`,`add_time` FROM `class_read` WHERE ( read_level_id = '32' and read_type_id = '1' ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-11-08T17:01:41+08:00 ] 101.30.4.209 /index.php/Home/Eval/evals
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0023s ]
+SQL: SELECT `students_name`,`students_garde`,`students_school` FROM `yixue_students` LIMIT 1   [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `yixue_garde` [ RunTime:0.0020s ]
+SQL: SELECT `garde_name` FROM `yixue_garde` WHERE ( garde_id = '2' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `record_word` [ RunTime:0.0020s ]
+SQL: INSERT INTO `record_word` (`record_fenshu`,`start_time`,`all_time`,`students_name`,`students_school`,`students_garde`) VALUES ('2333','123','123','闫天','北京大学','二年级') [ RunTime:0.0065s ]
+SQL: SHOW COLUMNS FROM `yixue_eval` [ RunTime:0.0020s ]
+SQL: SELECT `eval_text` FROM `yixue_eval` WHERE ( eval_end_num = '2201-2800' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-11-08T17:07:50+08:00 ] 101.30.4.209 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0024s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395522' ) LIMIT 1   [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-11-08T17:07:53+08:00 ] 101.30.4.209 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395522' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-11-08T17:08:02+08:00 ] 101.30.4.209 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '14e1b600b1fd579f47433b88e8d85291' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-11-08T17:09:08+08:00 ] 101.30.4.209 /index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_tel` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0019s ]
+
+[ 2017-11-08T17:09:10+08:00 ] 101.30.4.209 /index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0023s ]
+SQL: SELECT `students_tel` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-08T17:09:19+08:00 ] 101.30.4.209 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-08T17:09:23+08:00 ] 101.30.4.209 /index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0022s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0017s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0020s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0020s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0019s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0022s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-11-08T17:11:50+08:00 ] 101.30.4.209 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-08T17:11:55+08:00 ] 101.30.4.209 /index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0022s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0017s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0020s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0019s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0019s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0019s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0020s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-11-08T17:14:11+08:00 ] 101.30.4.209 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395522' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-11-08T17:14:20+08:00 ] 101.30.4.209 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-08T17:26:57+08:00 ] 101.30.4.209 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0023s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '14e1b600b1fd579f47433b88e8d85291' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-11-08T17:27:05+08:00 ] 101.30.4.209 /index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time`,`students_garde`,`students_school`,`students_sex`,`students_name` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' and students_pwd = '23f3e6392a0b988123d805405fa2d04f' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-08T17:27:13+08:00 ] 101.30.4.209 /index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0021s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0017s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0020s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 1 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 2 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 3 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 4 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 5 GROUP BY word_level_id [ RunTime:0.0019s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 6 GROUP BY word_level_id [ RunTime:0.0018s ]
+SQL: select `sheet_id`,`danci_name`,`mean_one`,`mean_two`,`mean_three`,`mean_four`,`mean_five`,`word_level_id` from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select count(word_level_id) as num from word_mean where word_level_id = 7 GROUP BY word_level_id [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-11-08T23:09:22+08:00 ] 140.205.201.34 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+

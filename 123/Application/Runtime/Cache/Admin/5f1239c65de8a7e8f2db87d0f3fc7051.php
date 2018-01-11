@@ -1,0 +1,141 @@
+<?php if (!defined('THINK_PATH')) exit();?>﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>密码修改</title>
+<link href="/xianshang/Public/Admin/css/style.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="/xianshang/Public/Admin/js/jquery.js"></script>
+<script src="/xianshang/Public/Admin/js/cloud.js" type="text/javascript"></script>
+<script type="text/javascript" src="/xianshang/Public/Admin/js/jquery-1.8.2.min.js"></script>
+
+<script language="javascript">
+	$(function(){
+    $('.loginbox').css({'position':'absolute','left':($(window).width()-692)/2});
+	$(window).resize(function(){  
+    $('.loginbox').css({'position':'absolute','left':($(window).width()-692)/2});
+    })  
+});  
+</script>
+    <style>
+        .in{
+            border:1px solid #90a2bc;
+            width:299px;
+            height:28px;
+        }
+    </style>
+</head>
+
+<body style="background-color:#1c77ac; background-image:url(/xianshang/Public/Admin/images/light.png); background-repeat:no-repeat; background-position:center top; overflow:hidden;">
+
+
+
+    <div id="mainBody">
+      <div id="cloud1" class="cloud"></div>
+      <div id="cloud2" class="cloud"></div>
+    </div>  
+
+
+<div class="logintop">    
+    <span>密码修改</span>
+    <ul>
+    <li><a href="#">回首页</a></li>
+    <li><a href="#">帮助</a></li>
+    <li><a href="#">关于</a></li>
+    </ul>    
+    </div>
+    
+    <div class="loginbody">
+    
+    <span class="systemlogo"></span>
+        <!--<form action="<?php echo U('login_add');?>" method="post">-->
+    <div class="loginbox">
+
+    <ul>
+        <input type="text" class="hidden" id="codes" value="">
+    <li><input name="account" type="text" id="user" class="in" value="" onclick="" placeholder="请输入输入授权码...."/></li>
+        <li><input name="email" type="text" class="in" id="email" value="请输入授权码，自动获取邮箱账号" onclick="" disabled/></li>
+        <li><input name="pwd" type="text" id="code" class="in" value="" onclick="" placeholder="请输入您获取的验证码...."/></li>
+    <li><input name="" type="button" class="loginbtn" value="提交" id="butt"  onclick=""  /><label><a href="#" id="click">点击获取验证码</a></label></li>
+    </ul>
+    </div>
+    <!--</form>-->
+    </div>
+    
+    
+    
+    <!--<div class="loginbm">版权所有  2013  .com 仅供学习交流，勿用于任何商业用途</div>-->
+</body>
+<script>
+    $(function(){
+        $("#user").blur(function(){
+            var partner_code = $(this).val();
+            if(partner_code==''){
+                alert('请输入校区代码');
+                return false;
+            }
+            $.ajax({
+                type: "post",
+                url: "<?php echo U('Login/forget');?>",
+                data: {partner_code:partner_code},
+                dataType:'json',
+                success:function(r){
+                    if(r.msg == 0){
+                        alert("校区代码不存在")
+                        return false;
+                    }else{
+//                       $(".hidden").val(r);
+                       $("#email").val(r.email);
+                    }
+//                    if(r == 0){
+//                        alert("校区代码不存在")
+//                        return false;
+//                    }else{
+//                       $(".hidden").val(r);
+//                       $("#email").val();
+//                    }
+                }
+            })
+        })
+        $('#click').click(function(){
+            var partner_code = $("#user").val();
+            var email = $("#email").val();
+            if(partner_code==''){
+                alert('请输入校区代码');
+                return false;
+            }
+            $.ajax({
+                type: "post",
+                url: "<?php echo U('Login/forget_code');?>",
+                data: {partner_code:partner_code,email:email},
+                dataType:'json',
+                success:function(r){
+                    alert(r);
+                    if(r == 0){
+                        return false;
+                    }else{
+                       $(".hidden").val(r.rand);
+                       $("#email").val();
+                    }
+                }
+            })
+        })
+        $("#butt").click(function(){
+            var partner_code = $("#user").val();
+            var code = $("#code").val();
+            var codes = $("#codes").val();
+            if(code==''||code!=codes)
+            {
+                alert('输入错误！');
+                return false;
+            }
+            else
+            {
+                alert('验证通过');
+                //验证通过则可以修改密码
+                location.href="<?php echo U('Login/update_pwd');?>?code="+partner_code;
+            }
+
+        })
+    })
+</script>
+</html>

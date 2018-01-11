@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="__PUBLIC__/Admin/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+	<div class="place">
+    <span>位置：</span>
+    <ul class="placeul">
+    <li><a href="#">首页</a></li>
+    <li><a href="#">角色修改</a></li>
+    </ul>
+    </div>
+
+    <div class="formbody">
+
+    <div class="formtitle"><span>角色修改</span></div>
+        <form action="{:U('Role/role_update')}" method="post">
+    <ul class="forminfo">
+        <input type="text" name="power_id" value="{$update.power_id}">
+    <li><label>角色名称</label><input name="role_name" type="text" class="dfinput" value="{$role.role_name}" /></li>
+    <li><label>角色介绍</label><input name="role_depict" value="{$role.role_depict}" type="text" class="dfinput" /></li>
+        <input type="hidden" value="{$Think.get.role_id}" name="role_id">
+        <li><label>角色所拥有权限</label>
+            <cite>
+                <table>
+                    <foreach name="show" item="vo">
+                        <tr>
+                            <if condition="$vo['checked'] eq 1 ">
+                                <td><input type="checkbox" name="yixue_power_id[]" value="{$vo.power_id}" class="parent" checked>{$vo.power_name}</td>
+                                <else />
+                                <td><input type="checkbox" name="yixue_power_id[]" value="{$vo.power_id}" class="parent">{$vo.power_name}</td>
+                            </if>
+                            <td>
+                                <foreach name="vo['child']" item="v">
+                                    <if condition="$v['checked'] eq 1 ">
+                                        <input type="checkbox" name="yixue_power_id[]" value="{$v.power_id}" class="son" checked>{$v.power_name}
+                                        <else />
+                                        <input type="checkbox" name="yixue_power_id[]" value="{$v.power_id}" class="son">{$v.power_name}
+                                    </if>
+                                </foreach>
+                            </td>
+                        </tr>
+                    </foreach>
+                </table>
+
+        <li>
+    <li><label>&nbsp;</label><input name="" type="submit" class="btn" value="确认保存"/></li>
+    </ul>
+        </form>
+
+    </div>
+</body>
+</html>
