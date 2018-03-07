@@ -1,0 +1,61 @@
+  <?php
+  use yii\helpers\Html;
+  use yii\bootstrap\Nav;
+  use yii\bootstrap\NavBar;
+  use yii\widgets\Breadcrumbs;
+  use app\assets\AppAsset;
+  use yii\helpers\Url;
+  ?> 
+     <nav class="summary-nav col-xs-3 &lt;!--hidden-sm hidden-xs--&gt;" id="summary-nav"> 
+      <header class="summary-nav-header"> 
+       <div class="header-content-wrapper"> 
+        <div class="avatar-row"> 
+         <a href="javascript:;" class="profile-avatar"> 
+            <img width="100%"  src="<?php if($userinfo['face']==""){echo 'uploads/1.jpg';}else{echo $userinfo['face'];}?>">
+         </a> 
+         <!--<sl-avatar size="70" class="avatar"></sl-avatar>--> 
+         <div class="profile"> 
+          <h6 class="user-name ng-binding">
+<?php
+?>
+<p class="say-hi ng-binding"><?=$userinfo['uname']?></p>
+</h6>
+         </div> 
+        </div> 
+        <div class="header-row"> 
+         <label>安全等级</label> 
+         <span class="white" ng-bind="basicProfile.securityText"><?php
+         if(0<=$userinfo['count']&&$userinfo['count']<=3){
+          echo "低";
+         }else if(3<$userinfo['count']&&$userinfo['count']<=6){
+          echo "中";
+         }else{
+          echo "高";
+         }
+         ?></span> 
+         <a href="<?=Url::toRoute('user/info');?>" class="manage-security">管理</a> 
+        </div> 
+       </div> 
+      </header> 
+      <section class="summary-nav-body"> 
+       <!-- My Account Nav --> 
+       <ul class="nav nav-list"> 
+        <li class="divider"></li> 
+        <li class="nav-header">我的账户</li> 
+        <li> <a href="<?=Url::toRoute('user/my');?>"><span class="sl-icon-account"></span>账户总览</a> </li> 
+        <li><a href='<?=Url::toRoute('user/info');?>'><span class="sl-icon-profile"></span>基本信息</a> </li> 
+        <li class="divider"></li> 
+        <li class="nav-header">我的资金</li> 
+        <li><a href='<?=Url::toRoute('activity/sendgold');?>'><span class="sl-icon-agreement"></span>团团赚</a> </li> 
+        <li > <a href='<?=Url::toRoute('activity/borrow');?>'><span class="sl-icon-details-more"></span>有钱花</a> </li> 
+        <li ng-class="{active:isTabActive('trade-history')}"> <a href='<?=Url::toRoute('user/history');?>'><span class="sl-icon-tutorial"></span>交易记录</a> </li> 
+        <li class="divider"></li> 
+        <li class="nav-header">账户管理</li> 
+        <li ng-class="{active:isTabActive('transfer')}"> <a href="<?=Url::toRoute('user/pay');?>"><span class="sl-icon-piggy-bank"></span>充值提现</a> </li> 
+        <li ng-class="{active:isTabActive('bank-cards')}"> <a href="<?=Url::toRoute('user/my_card');?>"><span class="sl-icon-credit-card"></span>银行卡管理</a> </li> 
+        <li class="divider"></li> 
+        <li class="nav-header">其他功能</li>
+        <li> <a href='<?=Url::toRoute('user/share');?>'><span class="sl-icon-branch" title="自己入坑还不够？来邀请好友来玩吧！"></span>邀请好友</a> </li> 
+       </ul> 
+      </section> 
+     </nav>

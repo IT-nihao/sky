@@ -1,0 +1,211 @@
+a:9:{s:6:"config";a:5:{s:10:"phpVersion";s:6:"5.5.30";s:10:"yiiVersion";s:6:"2.0.11";s:11:"application";a:5:{s:3:"yii";s:6:"2.0.11";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"5.5.30";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:5:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:67:"/data/home/bxu2359100401/htdocs/p2p/vendor/yiisoft/yii2-swiftmailer";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:65:"/data/home/bxu2359100401/htdocs/p2p/vendor/yiisoft/yii2-bootstrap";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:61:"/data/home/bxu2359100401/htdocs/p2p/vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:59:"/data/home/bxu2359100401/htdocs/p2p/vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:61:"/data/home/bxu2359100401/htdocs/p2p/vendor/yiisoft/yii2-faker";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:11:{s:14:"content-length";s:2:"36";s:12:"content-type";s:33:"application/x-www-form-urlencoded";s:6:"accept";s:46:"application/json, text/javascript, */*; q=0.01";s:15:"accept-encoding";s:13:"gzip, deflate";s:15:"accept-language";s:35:"zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3";s:10:"connection";s:10:"keep-alive";s:6:"cookie";s:139:"user=4b77aa2489c98a593a7c3a8ac65020a659c73ec03ab199d84f08b0aeb422812ca%3A2%3A%7Bi%3A0%3Bs%3A4%3A%22user%22%3Bi%3A1%3Bs%3A2%3A%2214%22%3B%7D";s:4:"host";s:18:"www.guodong666.com";s:7:"referer";s:63:"http://www.guodong666.com/p2p/web/index.php?r=activity%2Fborrow";s:10:"user-agent";s:73:"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0";s:16:"x-requested-with";s:14:"XMLHttpRequest";}s:15:"responseHeaders";a:1:{s:12:"Content-type";s:9:"text/html";}s:5:"route";s:9:"user/huan";s:6:"action";s:44:"app\controllers\UserController::actionHuan()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:3:{s:12:"Content Type";s:33:"application/x-www-form-urlencoded";s:3:"Raw";s:36:"gold=0.35&bid=7&ready_month=0&type=6";s:17:"Decoded to Params";a:4:{s:4:"gold";s:4:"0.35";s:3:"bid";s:1:"7";s:11:"ready_month";s:1:"0";s:4:"type";s:1:"6";}}s:6:"SERVER";a:34:{s:14:"CONTENT_LENGTH";s:2:"36";s:12:"CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:13:"DOCUMENT_ROOT";s:30:"/usr/home/bxu2359100401/htdocs";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:11:"HTTP_ACCEPT";s:46:"application/json, text/javascript, */*; q=0.01";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:11:"HTTP_COOKIE";s:139:"user=4b77aa2489c98a593a7c3a8ac65020a659c73ec03ab199d84f08b0aeb422812ca%3A2%3A%7Bi%3A0%3Bs%3A4%3A%22user%22%3Bi%3A1%3Bs%3A2%3A%2214%22%3B%7D";s:9:"HTTP_HOST";s:18:"www.guodong666.com";s:12:"HTTP_REFERER";s:63:"http://www.guodong666.com/p2p/web/index.php?r=activity%2Fborrow";s:15:"HTTP_USER_AGENT";s:73:"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0";s:21:"HTTP_X_REQUESTED_WITH";s:14:"XMLHttpRequest";s:4:"PATH";s:13:"/bin:/usr/bin";s:5:"PHPRC";s:40:"/var/www/php55/hichina_ini/bxu2359100401";s:12:"QUERY_STRING";s:13:"r=user%2Fhuan";s:15:"REDIRECT_STATUS";s:3:"200";s:11:"REMOTE_ADDR";s:14:"111.198.53.160";s:11:"REMOTE_PORT";s:5:"54147";s:14:"REQUEST_METHOD";s:4:"POST";s:11:"REQUEST_URI";s:32:"/p2p/web/index.php?r=user%2Fhuan";s:15:"SCRIPT_FILENAME";s:48:"/usr/home/bxu2359100401/htdocs/p2p/web/index.php";s:11:"SCRIPT_NAME";s:18:"/p2p/web/index.php";s:11:"SERVER_ADDR";s:12:"60.205.27.18";s:12:"SERVER_ADMIN";s:32:"webmaster@bxu2359100401.my3w.com";s:11:"SERVER_NAME";s:18:"www.guodong666.com";s:11:"SERVER_PORT";s:2:"80";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:16:"SERVER_SIGNATURE";s:0:"";s:15:"SERVER_SOFTWARE";s:6:"Apache";s:9:"UNIQUE_ID";s:24:"WTT-Rwqq4IQAADcy3wwAAABF";s:8:"PHP_SELF";s:18:"/p2p/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1496645447.9001091;s:12:"REQUEST_TIME";i:1496645447;}s:3:"GET";a:1:{s:1:"r";s:9:"user/huan";}s:4:"POST";a:4:{s:4:"gold";s:4:"0.35";s:3:"bid";s:1:"7";s:11:"ready_month";s:1:"0";s:4:"type";s:1:"6";}s:6:"COOKIE";a:1:{s:4:"user";s:98:"4b77aa2489c98a593a7c3a8ac65020a659c73ec03ab199d84f08b0aeb422812ca:2:{i:0;s:4:"user";i:1;s:2:"14";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:0:{}}s:3:"log";a:1:{s:8:"messages";a:23:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1496645447.919131;i:4;a:0:{}i:5;i:2260800;}i:1;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1496645447.9191799;i:4;a:0:{}i:5;i:2263976;}i:2;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1496645447.926069;i:4;a:0:{}i:5;i:2804528;}i:3;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1496645447.927798;i:4;a:0:{}i:5;i:2959104;}i:4;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1496645447.9283309;i:4;a:0:{}i:5;i:3012208;}i:5;a:6:{i:0;s:56:"Pretty URL not enabled. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1496645447.931447;i:4;a:0:{}i:5;i:3380912;}i:6;a:6:{i:0;s:28:"Route requested: 'user/huan'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1496645447.931484;i:4;a:0:{}i:5;i:3380176;}i:7;a:6:{i:0;s:33:"SELECT * FROM `user` WHERE uid=14";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.95596;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:20;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:5842000;}i:8;a:6:{i:0;s:78:"Opening DB connection: mysql:host=bdm256530670.my3w.com;dbname=bdm256530670_db";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1496645447.9560411;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:20;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:5851496;}i:13;a:6:{i:0;s:23:"Route to run: user/huan";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1496645447.9654069;i:4;a:0:{}i:5;i:5890208;}i:14;a:6:{i:0;s:60:"Running action: app\controllers\UserController::actionHuan()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1496645447.965672;i:4;a:0:{}i:5;i:5906688;}i:15;a:6:{i:0;s:34:"SELECT * FROM `borrow` WHERE bid=7";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9661181;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:5976448;}i:18;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `borrow`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9677889;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6013176;}i:21;a:6:{i:0;s:599:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'borrow' AND kcu.table_name = 'borrow'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9714079;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6060456;}i:24;a:6:{i:0;s:49:"UPDATE `borrow` SET `ready_month`=1 WHERE `bid`=7";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.978842;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:160;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6581976;}i:27;a:6:{i:0;s:33:"SELECT * FROM `user` WHERE uid=14";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.980366;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6596976;}i:30;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9816589;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6618184;}i:33;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9838991;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6645464;}i:36;a:6:{i:0;s:79:"UPDATE `user` SET `all_gold`='765428577.63', `owe_gold`='398.35' WHERE `uid`=14";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.985898;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:167;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6656888;}i:39;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `history`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9874671;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:199;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6726880;}i:42;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'history' AND kcu.table_name = 'history'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9893529;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:199;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6748128;}i:45;a:6:{i:0;s:166:"INSERT INTO `history` (`message`, `no`, `type`, `gold`, `uid`, `addtime`) VALUES ('有钱花还款第1�\�', '20170605145047970313', '余额', '0.35', 14, 1496645447)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.9911871;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:205;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6764088;}i:48;a:6:{i:0;s:103:"Access to debugger is denied due to IP address restriction. The requesting IP address is 111.198.53.160";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1496645447.993525;i:4;a:0:{}i:5;i:6782816;}}}s:9:"profiling";a:3:{s:6:"memory";i:6847720;s:4:"time";d:0.089979887008666992;s:8:"messages";a:26:{i:9;a:6:{i:0;s:78:"Opening DB connection: mysql:host=bdm256530670.my3w.com;dbname=bdm256530670_db";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1496645447.9560909;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:20;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:5854088;}i:10;a:6:{i:0;s:78:"Opening DB connection: mysql:host=bdm256530670.my3w.com;dbname=bdm256530670_db";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1496645447.9634869;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:20;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:5858200;}i:11;a:6:{i:0;s:33:"SELECT * FROM `user` WHERE uid=14";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.963551;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:20;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:5856456;}i:12;a:6:{i:0;s:33:"SELECT * FROM `user` WHERE uid=14";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9647751;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:20;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:5863848;}i:16;a:6:{i:0;s:34:"SELECT * FROM `borrow` WHERE bid=7";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9661641;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:5979680;}i:17;a:6:{i:0;s:34:"SELECT * FROM `borrow` WHERE bid=7";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9674489;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:5985464;}i:19;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `borrow`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.967855;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6016392;}i:20;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `borrow`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9705861;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6041000;}i:22;a:6:{i:0;s:599:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'borrow' AND kcu.table_name = 'borrow'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9714839;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6064592;}i:23;a:6:{i:0;s:599:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'borrow' AND kcu.table_name = 'borrow'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.97281;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6067544;}i:25;a:6:{i:0;s:49:"UPDATE `borrow` SET `ready_month`=1 WHERE `bid`=7";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.978893;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:160;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6584848;}i:26;a:6:{i:0;s:49:"UPDATE `borrow` SET `ready_month`=1 WHERE `bid`=7";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.9800701;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:160;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6587392;}i:28;a:6:{i:0;s:33:"SELECT * FROM `user` WHERE uid=14";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.980406;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6600224;}i:29;a:6:{i:0;s:33:"SELECT * FROM `user` WHERE uid=14";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9815691;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6607592;}i:31;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9817131;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6621400;}i:32;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9832561;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6657944;}i:34;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9839489;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6649616;}i:35;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9852569;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6652568;}i:37;a:6:{i:0;s:79:"UPDATE `user` SET `all_gold`='765428577.63', `owe_gold`='398.35' WHERE `uid`=14";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.985939;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:167;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6659704;}i:38;a:6:{i:0;s:79:"UPDATE `user` SET `all_gold`='765428577.63', `owe_gold`='398.35' WHERE `uid`=14";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.987102;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:167;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6662248;}i:40;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `history`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9875181;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:199;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6731360;}i:41;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `history`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9889879;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:199;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6749576;}i:43;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'history' AND kcu.table_name = 'history'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.989404;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:199;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6753520;}i:44;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'history' AND kcu.table_name = 'history'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9906471;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:199;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6757712;}i:46;a:6:{i:0;s:166:"INSERT INTO `history` (`message`, `no`, `type`, `gold`, `uid`, `addtime`) VALUES ('有钱花还款第1�\�', '20170605145047970313', '余额', '0.35', 14, 1496645447)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.9912319;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:205;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6767640;}i:47;a:6:{i:0;s:166:"INSERT INTO `history` (`message`, `no`, `type`, `gold`, `uid`, `addtime`) VALUES ('有钱花还款第1�\�', '20170605145047970313', '余额', '0.35', 14, 1496645447)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.992378;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:205;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6771424;}}}s:2:"db";a:1:{s:8:"messages";a:24:{i:11;a:6:{i:0;s:33:"SELECT * FROM `user` WHERE uid=14";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.963551;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:20;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:5856456;}i:12;a:6:{i:0;s:33:"SELECT * FROM `user` WHERE uid=14";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9647751;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:20;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:5863848;}i:16;a:6:{i:0;s:34:"SELECT * FROM `borrow` WHERE bid=7";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9661641;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:5979680;}i:17;a:6:{i:0;s:34:"SELECT * FROM `borrow` WHERE bid=7";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9674489;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:5985464;}i:19;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `borrow`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.967855;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6016392;}i:20;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `borrow`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9705861;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6041000;}i:22;a:6:{i:0;s:599:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'borrow' AND kcu.table_name = 'borrow'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9714839;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6064592;}i:23;a:6:{i:0;s:599:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'borrow' AND kcu.table_name = 'borrow'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.97281;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:158;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6067544;}i:25;a:6:{i:0;s:49:"UPDATE `borrow` SET `ready_month`=1 WHERE `bid`=7";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.978893;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:160;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6584848;}i:26;a:6:{i:0;s:49:"UPDATE `borrow` SET `ready_month`=1 WHERE `bid`=7";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.9800701;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:160;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6587392;}i:28;a:6:{i:0;s:33:"SELECT * FROM `user` WHERE uid=14";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.980406;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6600224;}i:29;a:6:{i:0;s:33:"SELECT * FROM `user` WHERE uid=14";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9815691;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6607592;}i:31;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9817131;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6621400;}i:32;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9832561;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6657944;}i:34;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9839489;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6649616;}i:35;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9852569;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:161;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6652568;}i:37;a:6:{i:0;s:79:"UPDATE `user` SET `all_gold`='765428577.63', `owe_gold`='398.35' WHERE `uid`=14";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.985939;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:167;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6659704;}i:38;a:6:{i:0;s:79:"UPDATE `user` SET `all_gold`='765428577.63', `owe_gold`='398.35' WHERE `uid`=14";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.987102;i:4;a:1:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:167;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6662248;}i:40;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `history`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9875181;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:199;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6731360;}i:41;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `history`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9889879;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:199;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6749576;}i:43;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'history' AND kcu.table_name = 'history'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.989404;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:199;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6753520;}i:44;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'history' AND kcu.table_name = 'history'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1496645447.9906471;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:199;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6757712;}i:46;a:6:{i:0;s:166:"INSERT INTO `history` (`message`, `no`, `type`, `gold`, `uid`, `addtime`) VALUES ('有钱花还款第1�\�', '20170605145047970313', '余额', '0.35', 14, 1496645447)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.9912319;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:205;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6767640;}i:47;a:6:{i:0;s:166:"INSERT INTO `history` (`message`, `no`, `type`, `gold`, `uid`, `addtime`) VALUES ('有钱花还款第1�\�', '20170605145047970313', '余额', '0.35', 14, 1496645447)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1496645447.992378;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:205;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:66:"/data/home/bxu2359100401/htdocs/p2p/controllers/UserController.php";s:4:"line";i:168;s:8:"function";s:16:"actionAddhistory";s:5:"class";s:30:"app\controllers\UserController";s:4:"type";s:2:"->";}}i:5;i:6771424;}}}s:6:"assets";a:0:{}s:4:"mail";a:0:{}s:8:"timeline";a:2:{s:5:"start";d:1496645447.907016;s:3:"end";d:1496645447.9981821;}s:7:"summary";a:9:{s:3:"tag";s:13:"5934ff47e240c";s:3:"url";s:57:"http://www.guodong666.com/p2p/web/index.php?r=user%2Fhuan";s:4:"ajax";i:1;s:6:"method";s:4:"POST";s:2:"ip";s:14:"111.198.53.160";s:4:"time";i:1496645447;s:10:"statusCode";i:200;s:8:"sqlCount";i:12;s:9:"mailCount";i:0;}}
