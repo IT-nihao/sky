@@ -1,0 +1,679 @@
+<?php
+namespace Home\Controller;
+use Think\Controller;
+class ReadController extends Controller {
+    /*
+     * 获取阅读分类
+     * 需要数据:token
+     * 返回数据:data
+     * */
+    public function read_type(){
+        $token = I('post.token');
+        $id = token_id($token);
+        token_no($id,$token);
+        $arr = M("read_type")->field("type_id,type_name")->select();
+$result = array("status" => '200',"message"=>"获取阅读分类成功","data"=>$arr);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+/*
+* 获取阅读等级
+* 需要参数：type_id
+* 返回数据：data
+* */
+public function read_textbook(){
+$token = I('post.token');
+$id = token_id($token);
+token_no($id,$token);
+$type_id = I('post.type_id',"");
+if($type_id != ""){
+$arr = M("read_textbook")->field("textbook_id,textbook_name")->where("textbook_type_id = $type_id")->select();
+$result = array("status" => '200',"message"=>"获取阅读教材成功","data"=>$arr);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+//            $where['level_id'] = array("in","1,2,3,4,5,6,7,8,9,10");
+$arr = M("level_type_id")->field("level_id,level_name")->limit(0,10)->select();
+$result = array("status" => '200',"message"=>"获取私人定制关卡成功","data"=>$arr);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}
+/*
+* 阅读接口
+* 需要数据：read_level_id,token,read_type_id,read_textbook_id
+* 返回数据：status,message,read_text,read_title,read_time,read_type_id,data=array(topic_timu,array(topic_text,yes_no,topic_spell));
+* */
+public function read(){
+$token = I('post.token');
+$id = token_id($token);
+token_no($id,$token);
+
+$read_level_id = I('read_level_id');
+$read_type_id = I('read_type_id');
+$read_textbook_id = I('read_textbook_id',"");
+if($read_textbook_id != ""){
+$sql = "select distinct read_level_id,read_textbook_id,read_type_id,read_title,read_text,add_time,read_difficulty_id,read_time,level_name,textbook_name from class_dedicated,yixue_level,read_textbook where class_dedicated.read_textbook_id=read_textbook.textbook_id and read_textbook.textbook_id = yixue_level.level_textbook_id  and  read_level_id = '$read_level_id' and read_type_id = '$read_type_id' and read_textbook_id = '$read_textbook_id'";
+$arr = M()->query($sql);
+if($arr){
+$topic_timu = M()->query("select distinct topic_timu from class_dedicated where read_level_id = $read_level_id and read_type_id = $read_type_id and read_textbook_id = $read_textbook_id");
+foreach($topic_timu as $k=>$v){
+$topic_text = M('class_dedicated')->field('topic_text,yes_no,topic_spell,read_id')->where("topic_timu = '$v[topic_timu]' and read_level_id = '$read_level_id' and read_type_id = '$read_type_id' and read_textbook_id = '$read_textbook_id'")->select();
+$topic_timu = $v['topic_timu'];
+foreach($topic_text as $kk => $vv){
+$one = $vv['topic_text'];
+$two = $vv['yes_no'];
+$three = $vv['topic_spell'];
+$bbb[$kk] = array(
+"topic_text"=>$one,
+"yes_no"=>$two,
+//                        "topic_spell"=>$three,
+);
+}
+$mmm[] = array(
+"topic_timu" => $topic_timu,
+"res" => $bbb,
+);
+}
+$result = array(
+"status" => 200,
+"message" => "获取文章成功",
+"data" => array(
+"read_text"=>$arr[0]['read_text'],
+"read_title"=>$arr[0]['read_title'],
+"read_time"=>$arr[0]['read_time'],
+"read_level"=>$arr[0]['level_name'],
+"textbook_name"=>$arr[0]['textbook_name'],
+"read_difficulty"=>$arr[0]['read_difficulty_id'],
+"arr"=>$mmm
+),
+);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$result = array("status" => '-1',"message"=>"该等级没有文章");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}else{
+$sql = "select distinct read_level_id,read_type_id,read_title,read_text,add_time,read_difficulty_id,read_time from class_read where read_level_id = '$read_level_id' and read_type_id = '$read_type_id' and students_id = $id";
+$arr = M()->query($sql);
+//            print_r($arr);die;
+if($arr){
+$topic_timu = M()->query("select distinct topic_timu from class_read where read_level_id = $read_level_id and read_type_id = $read_type_id and students_id = $id");
+foreach($topic_timu as $k=>$v){
+$topic_text = M('class_read')->field('topic_text,yes_no,topic_spell,read_id')->where("topic_timu = '$v[topic_timu]' and read_level_id = '$read_level_id' and read_type_id = '$read_type_id' and students_id ='$id'")->select();
+$topic_timu = $v['topic_timu'];
+foreach($topic_text as $kk => $vv){
+$one = $vv['topic_text'];
+$two = $vv['yes_no'];
+$three = $vv['topic_spell'];
+$bbb[$kk] = array(
+"topic_text"=>$one,
+"yes_no"=>$two,
+//                        "topic_spell"=>$three,
+);
+}
+$mmm[] = array(
+"topic_timu" => $topic_timu,
+"res" => $bbb,
+);
+}
+$result = array(
+"status" => 200,
+"message" => "获取文章成功",
+"data" => array(
+"read_text"=>$arr[0]['read_text'],
+"read_title"=>$arr[0]['read_title'],
+"read_time"=>$arr[0]['read_time'],
+"read_level"=>$arr[0]['read_level_id'],
+"read_difficulty"=>$arr[0]['read_difficulty_id'],
+"arr"=>$mmm
+),
+);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$result = array("status" => '-1',"message"=>"你还没有订制文章");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}
+}
+/*
+* 搜索单词
+* 需要数据:read_word,token,
+* 返回数据：danci(read_danci,read_jieshi)
+*/
+public function read_word(){
+$read_word = I('post.read_word');
+$ar = M("danci_one")->field("read_danci,read_jieshi,read_ciyi")->where("read_danci = '$read_word'")->find();
+$word = str_split($read_word);
+$wordlength = count(str_split($read_word));
+if($ar){
+$result = array("status" => '200',"message"=>"搜索单词成功","danci" => $ar);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+if($word[$wordlength-1]=="s"||$word[$wordlength-2].$word[$wordlength-1]=="es"){
+if($word[$wordlength-2].$word[$wordlength-1]=="es"){
+if($word[$wordlength-3]=="i"){
+$read_w = substr($read_word,0,$wordlength-3)."y";
+$danci = M("danci_one")->field("read_danci,read_jieshi,read_ciyi")->where("read_danci = '$read_w'")->find();
+if($danci){
+$result = array("status" => '200',"message"=>"搜索变形单词(ies)成功","danci" => $danci);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$result = array("status" => '-1',"message"=>"没有该单词");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}else{
+$read_w = substr($read_word,0,$wordlength-2);
+$danci = M("danci_one")->field("read_danci,read_jieshi,read_ciyi")->where("read_danci = '$read_w'")->find();
+if($danci){
+$result = array("status" => '200',"message"=>"搜索变形单词(es)成功","danci" => $danci);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$read_w = substr($read_word,0,$wordlength-1);
+$danci = M("danci_one")->field("read_danci,read_jieshi,read_ciyi")->where("read_danci = '$read_w'")->find();
+if($danci){
+$result = array("status" => '200',"message"=>"搜索变形单词(s)成功","danci" => $danci);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$result = array("status" => '-1',"message"=>"没有该单词");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}
+}
+}else{
+$read_w = substr($read_word,0,$wordlength-1);
+$danci = M("danci_one")->field("read_danci,read_jieshi,read_ciyi")->where("read_danci = '$read_w'")->find();
+if($danci){
+$result = array("status" => '200',"message"=>"搜索变形单词(s)成功","danci" => $danci);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$result = array("status" => '-1',"message"=>"没有该单词");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}
+}else if($word[$wordlength-1]=="d"||$word[$wordlength-2].$word[$wordlength-1] == "ed"){
+if($word[$wordlength-2].$word[$wordlength-1]=="ed"){
+if($word[$wordlength-3]=="i"){
+$read_w = substr($read_word,0,$wordlength-3)."y";
+$danci = M("danci_one")->field("read_danci,read_jieshi,read_ciyi")->where("read_danci = '$read_w'")->find();
+if($danci){
+$result = array("status" => '200',"message"=>"搜索变形单词(ied)成功","danci" => $danci);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$result = array("status" => '-1',"message"=>"没有该单词");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}else{
+$read_w = substr($read_word,0,$wordlength-2);
+$danci = M("danci_one")->field("read_danci,read_jieshi,read_ciyi")->where("read_danci = '$read_w'")->find();
+if($danci){
+$result = array("status" => '200',"message"=>"搜索变形单词(ed)成功","danci" => $danci);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$read_w = substr($read_word,0,$wordlength-1);
+$danci = M("danci_one")->field("read_danci,read_jieshi,read_ciyi")->where("read_danci = '$read_w'")->find();
+if($danci){
+$result = array("status" => '200',"message"=>"搜索变形单词(d)成功","danci" => $danci);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$result = array("status" => '-1',"message"=>"没有该单词");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}
+}
+}else{
+$read_w = substr($read_word,0,$wordlength-1);
+$danci = M("danci_one")->field("read_danci,read_jieshi,read_ciyi")->where("read_danci = '$read_w'")->find();
+if($danci){
+$result = array("status" => '200',"message"=>"搜索变形单词(d)成功","danci" => $danci);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$result = array("status" => '-1',"message"=>"没有该单词");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}
+}else if($word[$wordlength-3].$word[$wordlength-2].$word[$wordlength-1] == "ing"){
+if($word[$wordlength-4] == "y"){
+$read_w = substr($read_word,0,$wordlength-4)."ie";
+$danci = M("danci_one")->field("read_danci,read_jieshi,read_ciyi")->where("read_danci = '$read_w'")->find();
+if($danci){
+$result = array("status" => '200',"message"=>"搜索变形单词(y变ie)成功","danci" => $danci);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$result = array("status" => '-1',"message"=>"没有该单词");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}else{
+$read_w = substr($read_word,0,$wordlength-3)."e";
+$danci = M("danci_one")->field("read_danci,read_jieshi,read_ciyi")->where("read_danci = '$read_w'")->find();
+if($danci){
+$result = array("status" => '200',"message"=>"搜索变形单词(去e+ing)成功","danci" => $danci);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$read_w = substr($read_word,0,$wordlength-3);
+$danci = M("danci_one")->field("read_danci,read_jieshi,read_ciyi")->where("read_danci = '$read_w'")->find();
+if($danci){
+$result = array("status" => '200',"message"=>"搜索变形单词(直接+ing)成功","danci" => $danci);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$read_w = substr($read_word,0,$wordlength-4);
+$danci = M("danci_one")->field("read_danci,read_jieshi,read_ciyi")->where("read_danci = '$read_w'")->find();
+if($danci){
+$result = array("status" => '200',"message"=>"搜索变形单词(双写ing)成功","danci" => $danci);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$result = array("status" => '-1',"message"=>"没有该单词");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}
+}
+}
+}else{
+$result = array("status" => '-1',"message"=>"没有该单词");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}
+}
+/*
+* 单词读音
+* 需要参数：read_word,token
+* 返回参数：无
+*/
+public function word_music(){
+$read_word = I("post.read_word");
+$url = "http://dict.youdao.com/dictvoice?type=2&audio=".$read_word."";
+$result = array("status" => '200',"message"=>"获取读音Url成功","music_url" => $url);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+/*
+* 添加文章所在生词本
+* 需要参数：token,new_word,read_type_id,read_level_id,
+* 返回数据：无
+*/
+public function add_word(){
+$token = I('post.token');
+$id = token_id($token);
+token_no($id,$token);
+$new_word = I('post.new_word');
+$par = "/[\x80-\xff]/";
+$new_word = preg_replace($par,"",$new_word);
+$new_word = explode(",",$new_word);
+$fenci = array('ing','ed','es');
+foreach($new_word as $v){
+$a[]=$v;
+foreach($fenci as $vv){
+if(!strpos($v,$vv) === false){     //使用绝对等于
+$a[] = strstr($v,$vv, TRUE);
+}
+}
+}
+//去除相同的值
+$a = array_unique($a);
+foreach($a as $v){
+$ciku = M("danci_one")->field("read_jieshi")->where("read_danci = '$v'")->find();
+if($ciku){
+if($v==""){
+//如果为空就不添加
+}else{
+$arr[] = array(
+'new_word' => $v,
+'new_mean' => $ciku['read_jieshi'],
+'read_type_id' =>I('post.read_type_id'),
+'read_level_id' => I('post.read_level_id'),
+'read_textbook_id' => I('post.read_textbook_id',""),
+'students_id' => $id,
+'add_time' => date("Y-m-d"),
+'status'=>2
+);
+}
+}else{
+//如果为空就不添加
+}
+}
+$arr = M('yixue_new')->addAll($arr);
+if($arr){
+$result = array("status" => '200',"message"=>"添加生词本成功");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}
+/*
+* 获取生词
+* 需要参数：token,read_type_id,read_level_id,read_textbook_id
+* 返回数据：data
+*/
+public function list_word(){
+$token = I('post.token');
+$id = token_id($token);
+token_no($id,$token);
+$read_type_id = I("post.read_type_id");
+$read_level_id = I("post.read_level_id");
+$read_textbook_id = I("post.read_textbook_id");
+if($read_textbook_id != ""){
+$sql = "select add_time,group_concat(new_word) as word, group_concat(new_mean) as mean  from yixue_new where students_id = $id and read_type_id = $read_type_id and read_level_id = $read_level_id and read_textbook_id = '$read_textbook_id' and status = 2 group by add_time";
+$arr = M()->query($sql);
+}else{
+$sql = "select add_time,group_concat(new_word) as word, group_concat(new_mean) as mean  from yixue_new where students_id = $id and read_type_id = $read_type_id and read_level_id = $read_level_id and read_textbook_id = '0' and status = 2 group by add_time";
+$arr = M()->query($sql);
+}
+
+foreach($arr as $k=>$v){
+$word = explode(",",$v['word']);
+$mean = explode(",",$v['mean']);
+$a = array(word=>$word);
+$b = array (mean=>$mean);
+$test = array("a"=>word,"b"=>mean);
+$result = array();
+for($i=0;$i<count($a[word]);$i++){
+foreach($test as $key=>$value){
+$result[$i][$value] = ${$key}[$value][$i];
+}
+}
+$newarray[] = array(
+"time" => $v['add_time'],
+"words" =>$result
+);
+}
+
+//        $word = array();
+//        foreach($arr as $v){
+//            $word[] = $v['new_word'];
+//        }
+//        去除重复单词
+//        $word = array_unique($newarray);
+//        foreach($word as $v){
+//            $data[] = M("danci_two")->field('read_danci,read_jieshi')->where("read_danci = '$v'")->select();
+//        }
+//        print_r($word);die;
+//        $data2=array();
+//循环遍历三维数组
+//        foreach($data as $value){
+//            foreach($value as $v){
+//                $data2[]=$v;
+//            }
+//        }
+$result = array("status" => '200',"message"=>"获取该篇文章生词成功",'data'=>$newarray);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+/*
+* 获取文章等级and文章所做次数and是否过关
+* 需要参数：token,read_type_id,read_textbook_id
+*/
+public function read_level(){
+$token = I('post.token');
+$id = token_id($token);
+token_no($id,$token);
+//教材ID
+//        $id = 1;
+$read_type_id = I("post.read_type_id");
+$read_textbook_id = I("post.read_textbook_id","");
+//        $level_type_id = I("post.level_type_id");
+if($read_textbook_id != ""){
+$level = M("read_textbook")->field("level_id,level_name,level_textbook_id,textbook_name,type_id,type_name")->join('yixue_level ON read_textbook.textbook_id = yixue_level.level_textbook_id')->join('read_type on read_textbook.textbook_type_id = read_type.type_id')->where("type_id = $read_type_id and textbook_id = $read_textbook_id")->select();
+//        print_r($level);die;
+//查询拼接文章所做的次数
+foreach($level as $k => $v){
+$nums = M("read_nums")->field("read_num,read_level_id,read_type_id,read_textbook_id")->where("students_id = $id and read_type_id = $v[type_id] and read_level_id = $v[level_id] and read_textbook_id = $v[level_textbook_id]")->find();
+if($nums['read_level_id'] == $v['level_id']){
+$level[$k]['nums'] = $nums['read_num'];
+}else{
+$level[$k]['nums'] = 0;
+}
+}
+$result = array("status" => '200',"message"=>"获取文章等级成功","level" => $level);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$level = M("read_type")->field("level_id,level_name,type_id,type_name")->join('level_type_id on level_type_id.level_type_id = read_type.type_id')->where("type_id = $read_type_id ")->select();
+//            print_r($level);die;
+foreach($level as $k => $v){
+$nums = M("read_nums")->field("read_num,read_level_id,read_type_id")->where("students_id = $id and read_type_id = $v[type_id] and read_level_id = $v[level_id] and read_textbook_id = 0")->find();
+if($nums['read_level_id'] == $v['level_id']){
+$level[$k]['nums'] = $nums['read_num'];
+}else{
+$level[$k]['nums'] = 0;
+}
+}
+$result = array("status" => '200',"message"=>"获取文章等级成功","level" => $level);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+//查找该分类下的等级
+}
+//    public function
+/*
+* 提交文章
+* 需要参数：token,read_type_id,read_level_id,read_textbook_id
+* 返回数据：status,message,num,time
+*/
+public function read_submit(){
+$token = I('post.token');
+$id = token_id($token);
+token_no($id,$token);
+$arr['read_type_id'] = I('post.read_type_id');
+$arr['read_level_id'] = I('post.read_level_id');
+$arr['read_textbook_id'] = I('post.read_textbook_id','');
+
+$arr['students_id'] = $id;
+if($arr['read_textbook_id'] != ""){
+$data = M('read_nums')->field('students_id,read_type_id,read_level_id,read_textbook_id,read_num')->where("students_id = $id and read_type_id = $arr[read_type_id] and read_level_id = $arr[read_level_id] and read_textbook_id = $arr[read_textbook_id]")->find();
+if($data){
+if($data['read_num'] >= 3){
+$result = array("status" => '-1',"message"=>"该题已经做过三次了，不能在做了");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$num['read_num'] = $data['read_num']+1;
+$data1 = M('read_nums')->where("students_id = $id and read_type_id = $arr[read_type_id] and read_level_id = $arr[read_level_id] and read_textbook_id = $arr[read_textbook_id]")->save($num);
+$result = array("status" => '200',"message"=>"提交成功","nums" => $num['read_num'],"time"=>time());
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}else{
+$arr['read_num'] = 1;
+$data2 = M('read_nums')->add($arr);
+$result = array("status" => '200',"message"=>"成功","nums"=>1,"time"=>time());
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}else{
+$data = M('read_nums')->field('students_id,read_type_id,read_level_id,read_num')->where("students_id = $id and read_type_id = $arr[read_type_id] and read_level_id = $arr[read_level_id] and read_textbook_id = 0")->find();
+if($data){
+if($data['read_num'] >= 3){
+$result = array("status" => '-1',"message"=>"该题已经做过三次了，不能在做了");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$num['read_num'] = $data['read_num']+1;
+$data1 = M('read_nums')->where("students_id = $id and read_type_id = $arr[read_type_id] and read_level_id = $arr[read_level_id]")->save($num);
+$result = array("status" => '200',"message"=>"提交成功","nums" => $num['read_num'],"time"=>time());
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}else{
+$arr['read_num'] = 1;
+$data2 = M('read_nums')->add($arr);
+$result = array("status" => '200',"message"=>"成功","nums"=>1,"time"=>time());
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}
+
+}
+/*
+* 回收站单词
+* 需要数据：token,old_word,read_type_id,read_level_id,read_textbook_id
+* 返回数据：status,message
+*/
+public function old_word(){
+$token = I('post.token');
+$id = token_id($token);
+token_no($id,$token);
+//        $id= 25;
+$read_type_id = I('post.read_type_id');
+$read_level_id = I('post.read_level_id');
+$read_textbook_id = I('post.read_textbook_id',"0");
+$old_word = I('post.old_word');
+$arr = array(
+'old_word' => $old_word,
+'read_type_id' =>I('post.read_type_id'),
+'read_level_id' => I('post.read_level_id'),
+'read_textbook_id' => I('post.read_textbook_id',""),
+'students_id' => $id,
+'add_time' => time()
+);
+M("yixue_new")->where("students_id = $id and read_type_id = $read_type_id and read_level_id = $read_level_id and read_textbook_id = '$read_textbook_id' and new_word = '$old_word'")->delete();
+$arr = M('yixue_old')->add($arr);
+if($arr){
+$result = array("status" => '200',"message"=>"删除单词成功，可在单词回收站中查看");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}
+/*
+* 获取回收站单词（删除三个月的）
+* 需要数据:token,read_type_id,read_level_id,read_textbook_id
+* 返回数据:data
+*/
+public function recycle_word(){
+$token = I('post.token');
+$id = token_id($token);
+token_no($id,$token);
+$read_type_id = I('post.read_type_id');
+$read_level_id = I('post.read_level_id');
+$read_textbook_id = I('post.read_textbook_id',"0");
+$arr = M("yixue_old")->field("old_id,old_word,add_time,students_id,read_type_id,read_level_id")->where("students_id = $id and read_type_id = $read_type_id and read_level_id = $read_level_id and read_textbook_id = '$read_textbook_id'")->select();
+$time = time();
+//        print_r($arr);die;
+foreach($arr as $v){
+//判断是否过期
+if(($time-$v['add_time'])>60*60*24*90){
+M("yixue_old")->where("add_time = $v[add_time]")->delete();
+}else{
+$old_word[] = $v['old_word'];
+}
+}
+foreach($old_word as $v){
+$data[] = M("danci_two")->field('read_danci,read_jieshi')->where("read_danci = '$v'")->find();
+}
+$result = array("status" => '200',"message"=>"获取回收站单词成功","data"=>$data);
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+/*
+* 删除阅读生词本单词
+* 需要参数：token,new_word,read_type_id,read_level_id,read_textbook_id
+* 返回数据：status,message
+*/
+public function delete_word(){
+$token = I('post.token');
+$id = token_id($token);
+token_no($id,$token);
+$word = I('post.old_word');
+$read_type_id = I('post.read_type_id');
+$read_level_id = I('post.read_level_id');
+$read_textbook_id = I('post.read_textbook_id',"0");
+$arr = M("yixue_old")->where("students_id = $id and read_type_id = $read_type_id and read_level_id = $read_level_id and read_textbook_id = '$read_textbook_id' and old_word = '$word'")->delete();
+if($arr){
+$result = array("status" => '200',"message"=>"彻底删除单词");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$result = array("status" => '-1',"message"=>"删除单词失败");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}
+/*
+* 提交打印
+* 需要参数：token,read_level_id,read_type_id
+* 返回数据：status,message
+*/
+public function read_print()
+{
+//        $token = I('post.token');
+//        $id = token_id($token);
+//        token_no($id, $token);
+$id = 5;
+$students_name = M("yixue_students")->field("students_name")->where("students_id = '$id'")->find();
+$read_level_id = I('read_level_id');
+$read_type_id = I('read_type_id');
+$read_textbook_id = I('read_textbook_id',"0");
+if($read_textbook_id != 0){
+$read = M("class_dedicated")->field("read_title")->where("read_type_id = '$read_type_id' and read_level_id = '$read_level_id' and read_textbook_id = '$read_textbook_id'")->find();
+}else{
+$read = M("class_read")->field("read_title")->where("read_type_id = '$read_type_id' and read_level_id = '$read_level_id' and read_textbook_id = '0'")->find();
+}
+$key = $id.$read_type_id.$read_level_id.$read_textbook_id;
+$dy = S($key);
+if(empty($dy)){
+$arr['students_name'] = $students_name['students_name'];
+$arr['print_type'] = $read_type_id;
+$arr['print_level'] = $read_level_id;
+$arr['print_textbook'] = $read_textbook_id;
+$arr['read_title'] = $read['read_title'];
+$arr['print_students_id'] = $id;
+$arr['add_time'] = time();
+$data = M('yixue_print')->add($arr);
+
+if($data){
+S($key,$arr,10);
+$result = array("status" => '200',"message"=>"提交打印成功");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}else{
+$result = array("status" => '-1',"message"=>"一篇文章一天只能打印一次");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}
+/*
+* 测试报告接口
+* 需要参数：accuracy(正确率),spend_time(花费时间),submit_time(提交时间),read_type_id,read_level_id,all_topic,right_topic
+* 返回数据:data
+*/
+public function test_report(){
+$token = I('post.token');
+$id = token_id($token);
+token_no($id, $token);
+$read_type_id = I('post.read_type_id');
+$read_level_id = I('post.read_level_id');
+$read_textbook_id = I('post.read_textbook_id','');
+if($read_textbook_id == ""){
+$sql = "select distinct read_level_id,read_type_id,read_title,read_text,add_time,read_difficulty_id,read_time,read_textbook_id from class_read where read_level_id = '$read_level_id' and read_type_id = '$read_type_id'";
+
+$num = "select count(distinct topic_timu) as all_topic from class_read where read_level_id = '$read_level_id' and read_type_id = '$read_type_id' and read_textbook_id = '0'";
+}else{
+$sql = "select distinct read_level_id,read_type_id,read_title,add_time,read_difficulty_id,read_time,read_textbook_id from class_dedicated,yixue_level,read_textbook
+where class_dedicated.read_textbook_id = read_textbook.textbook_id and read_textbook.textbook_id = yixue_level.level_textbook_id and read_level_id = '$read_level_id'
+and read_type_id = '$read_type_id' and read_textbook_id = '$read_textbook_id'";
+$num = "select count(distinct topic_timu) as all_topic from class_dedicated where read_level_id = '$read_level_id' and read_type_id = '$read_type_id' and read_textbook_id = $read_textbook_id";
+}
+
+$arr = M()->query($sql);
+//        print_r($arr);die;
+$num = M()->query($num);
+$data['read_level_id'] = $arr[0]['read_level_id'];//关卡ID
+$data['read_title'] = $arr[0]['read_title'];//文章题目
+$data['accuracy'] = I('post.accuracy');//正确率
+$data['spend_time'] = I('post.spend_time');//花费时间
+$data['submit_time'] = time();//提交时间
+$data['all_topic'] = $num[0]['all_topic'];
+$data['error_topic'] = I('post.error_topic');
+$data['students_id'] = $id;
+$data['read_textbook_id'] = $arr[0]['read_textbook_id'];
+$data['read_type_id'] = $arr[0]['read_type_id'];
+$data['read_difficulty_id'] = $arr[0]['read_difficulty_id'];
+//        print_r($data);die;
+$test = M("read_analyze")->add($data);
+if($test){
+$result = array("status" => '200',"message"=>"答题分析入库成功");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}else{
+$result = array("status" => '-1',"message"=>"失败");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+}
+public function read_feedback(){
+$token = I('post.token');
+$id = token_id($token);
+token_no($id, $token);
+$data['students_id'] = $id;
+$data['text'] = I("post.read_feedback");
+$data['time'] = time();
+M("feedback")->add($data);
+$result = array("status" => '200',"message"=>"反馈成功");
+echo json_encode($result,JSON_UNESCAPED_UNICODE);
+}
+public function read_garde(){
+//        $token = I('post.token');
+//        $id = token_id($token);
+//        token_no($id, $token);
+$id = 5;
+$nums = M("read_nums")->field("read_num")->where("students_id = 5 and read_num>0")->count();
+print_r($nums);die;
+}
+}

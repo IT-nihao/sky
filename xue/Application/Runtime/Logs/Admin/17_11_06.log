@@ -1,0 +1,1347 @@
+[ 2017-11-06T09:26:36+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003642s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-11-06T09:26:36+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+SQL: select DISTINCT CONCAT(power_controller,'/',power_action) as qx,yixue_power.* from yixue_power_role left join yixue_power on yixue_power_role.yixue_power_id=yixue_power.power_id where yixue_role_id in(select yixue_role_id from yixue_user_role where yixue_user_id='') and yixue_power.power_status=1 [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006227s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006274s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-11-06T09:26:36+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003918s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-11-06T09:26:36+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004083s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-11-06T09:26:38+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003527s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003560s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-11-06T09:26:42+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '698d51a19d8a121ce581499d7b701668' ) LIMIT 1   [ RunTime:0.0590s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003564s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003609s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-11-06T09:26:43+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003210s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003244s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-11-06T09:26:43+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020946s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-11-06T09:26:43+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003868s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-11-06T09:26:44+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+SQL: select DISTINCT CONCAT(power_controller,'/',power_action) as qx,yixue_power.* from yixue_power where power_status=1; [ RunTime:0.3889s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006850s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006897s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-11-06T09:26:46+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Partner/partner_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined variable: power /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/0c5cb45414c64015ce741dd07d52e579.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005062s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005093s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-11-06T09:26:48+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Partner/partner_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+SQL: SHOW COLUMNS FROM `yixue_region` [ RunTime:0.0021s ]
+SQL: SELECT `region_id`,`parent_id`,`region_name`,`region_type` FROM `yixue_region` WHERE ( parent_id = 1 )  [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004329s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004365s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-11-06T15:17:05+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004108s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-11-06T15:17:05+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021640s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-11-06T15:17:05+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000360s ]
+SQL: select DISTINCT CONCAT(power_controller,'/',power_action) as qx,yixue_power.* from yixue_power_role left join yixue_power on yixue_power_role.yixue_power_id=yixue_power.power_id where yixue_role_id in(select yixue_role_id from yixue_user_role where yixue_user_id='') and yixue_power.power_status=1 [ RunTime:0.0021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008251s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008290s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-11-06T15:17:05+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005195s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-11-06T15:17:06+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004359s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004414s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-11-06T15:17:11+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '698d51a19d8a121ce581499d7b701668' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003453s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003491s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-11-06T15:17:12+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003260s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003294s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-11-06T15:17:13+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000350s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012879s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012912s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-11-06T15:17:13+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003751s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003786s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-11-06T15:17:13+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+SQL: select DISTINCT CONCAT(power_controller,'/',power_action) as qx,yixue_power.* from yixue_power where power_status=1; [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006153s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000103s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-11-06T15:17:14+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Partner/partner_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined variable: power /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/0c5cb45414c64015ce741dd07d52e579.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005031s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-11-06T15:17:20+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined variable: arr /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/4893aee25586c54d5766b1255158d6f1.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005751s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-11-06T15:17:21+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004168s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-11-06T15:25:54+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+NOTIC: [8] Undefined index: topic_spell /var/www/html/yantian/xianshang/Application/Admin/Controller/ReadController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: INSERT INTO `class_read` (`read_text`,`read_title`,`read_time`,`read_type_id`,`topic_timu`,`topic_text`,`yes_no`,`topic_spell`,`add_time`) VALUES ('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1','According to the research, which kind of colleagues would most people tend to choose?','Nice but unintelligent.','1',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1','According to the research, which kind of colleagues would most people tend to choose?','Creative but unattractive.','0',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1','According to the research, which kind of colleagues would most people tend to choose?','Competent but unfriendly.','0',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1','According to the research, which kind of colleagues would most people tend to choose?','Humorous but unambitious.','0',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1','To encourage workmates to like each other, companies could _________.','arrange the training course for workers to study together','0',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1','To encourage workmates to like each other, companies could _________.','organize team-building activities outside the office','0',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1','To encourage workmates to like each other, companies could _________.','encourage a diversity of opinions in workplace','0',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1','To encourage workmates to like each other, companies could _________.','employ staff who have a lot in common','1',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1',' Some people think that similar people working together may _______','offend each other','0',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1',' Some people think that similar people working together may _______','create fewer new ideas','1',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1',' Some people think that similar people working together may _______','talk more and work less','0',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1',' Some people think that similar people working together may _______','be likely to stick together','0',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1','The author talks about her experience to show that _______.','people respect outstanding leaders','0',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1','The author talks about her experience to show that _______.','people tend to like optimistic workmates','0',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1','The author talks about her experience to show that _______.','a workmate’ s working ability is important','1',NULL,'1509953154'),('The importance of liking people is the subject of an article in the Harvard Business Review, which has carried out an experiment to find out who we’d rather work with. Hardly surprisingly, the people we want most as our workmates are both: brilliant at their jobs and delightful human beings. And the people we want least are both unpleasant and useless. More interestingly, the authors found that, given the choice between working with lovable fools and competent jerks (性情古怪的人), we irresistibly choose the former. Anyway, who likes those stupid men who annoy or hurt other people? We might insist that competence matters more, but our behavior shows we stay close to the people we like and sharing information with them.
+What companies should therefore do is get people to like each other more. The trick here is apparently to make sure staffs come across each other as often as possible during the day. They also should be sent on bonding courses and so on to encourage friendliness and break down displeasure. However, more outdoor-activity weekends and shared coffee machines inspire no confidence at all.
+The reality is that people either like each other or they don’t. You can’t force it. Possibly you can make offices friendlier by tolerating a lot of chat, but there is a productivity cost to that. In my experience, the question of lovable fool against competent jerk may not be the right one. The two are interrelated: we tend not to like our workmates when they are completely hopeless. I was once quite friendly with a woman whom I later worked with. I found her to be so outstandingly bad at her job that I lost respect for her and ended up not really liking her at all. Then is there anything that companies should be doing about it?
+By far the most effective strategy would be to hire people who are all pretty much the same, given that similarity is one of the main determinants of whether we like each other. I think this is a pretty good idea, but no one dares recommend this anymore without offending the diversity lobby group. There is only one acceptable view on this subject: teams of similar people are bad because they stop creativity. This may be true, though I have never seen any conclusive proof of it.
+Not only do we like similar people, we like people who like us. So if companies want to promote more liking, they should encourage a culture where we are all nice to each other. The trouble is that this needs to be done with some skill.','Camaraderie over Competence','10','1','The author talks about her experience to show that _______.','talkative workmates makes offices friendlier','0',NULL,'1509953154') [ RunTime:0.0265s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003514s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003553s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-11-06T15:25:55+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004117s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004151s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-11-06T15:45:40+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+ERR: 1136:Column count doesn't match value count at row 1
+ [ SQL语句 ] : INSERT INTO `class_read` (`read_text`,`read_title`,`read_time`,`read_type_id`,`topic_timu`,`topic_text`,`yes_no`,`topic_spell`,`add_time`) VALUES ('','','0','0','To encourage workmates to like each other, companies could _________.','','1','1509954340'),('','','0','0','To encourage workmates to like each other, companies could _________.','','1','1509954340'),('','','0','0','To encourage workmates to like each other, companies could _________.','','1','1509954340'),('','','0','0','To encourage workmates to like each other, companies could _________.','','1','1509954340'),('','','0','0','','','1','1509954340'),('','','0','0','','','1','1509954340'),('','','0','0','','','1','1509954340'),('','','0','0','','','1','1509954340')
+ERR: 1136:Column count doesn't match value count at row 1
+ [ SQL语句 ] : INSERT INTO `class_read` (`read_text`,`read_title`,`read_time`,`read_type_id`,`topic_timu`,`topic_text`,`yes_no`,`topic_spell`,`add_time`) VALUES ('','','0','0','To encourage workmates to like each other, companies could _________.','','1','1509954340'),('','','0','0','To encourage workmates to like each other, companies could _________.','','1','1509954340'),('','','0','0','To encourage workmates to like each other, companies could _________.','','1','1509954340'),('','','0','0','To encourage workmates to like each other, companies could _________.','','1','1509954340'),('','','0','0','','','1','1509954340'),('','','0','0','','','1','1509954340'),('','','0','0','','','1','1509954340'),('','','0','0','','','1','1509954340')
+
+[ 2017-11-06T15:45:56+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+ERR: 1136:Column count doesn't match value count at row 1
+ [ SQL语句 ] : INSERT INTO `class_read` (`read_text`,`read_title`,`read_time`,`read_type_id`,`topic_timu`,`topic_text`,`yes_no`,`topic_spell`,`add_time`) VALUES ('','','0','1','','','1','1509954356'),('','','0','1','','','1','1509954356'),('','','0','1','','','1','1509954356'),('','','0','1','','','1','1509954356')
+ERR: 1136:Column count doesn't match value count at row 1
+ [ SQL语句 ] : INSERT INTO `class_read` (`read_text`,`read_title`,`read_time`,`read_type_id`,`topic_timu`,`topic_text`,`yes_no`,`topic_spell`,`add_time`) VALUES ('','','0','1','','','1','1509954356'),('','','0','1','','','1','1509954356'),('','','0','1','','','1','1509954356'),('','','0','1','','','1','1509954356')
+
+[ 2017-11-06T15:49:33+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-11-06T15:49:35+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004160s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004194s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000322s ]
+
+[ 2017-11-06T15:49:43+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-11-06T15:49:46+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004104s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-11-06T15:49:50+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-11-06T15:50:11+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004261s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004300s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-11-06T15:50:12+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-11-06T15:50:16+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004210s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004245s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2017-11-06T15:50:56+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003240s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003273s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-11-06T15:50:56+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003310s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-11-06T15:50:56+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+SQL: select DISTINCT CONCAT(power_controller,'/',power_action) as qx,yixue_power.* from yixue_power_role left join yixue_power on yixue_power_role.yixue_power_id=yixue_power.power_id where yixue_role_id in(select yixue_role_id from yixue_user_role where yixue_user_id='') and yixue_power.power_status=1 [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005676s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005710s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-11-06T15:50:56+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003745s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2017-11-06T15:50:58+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003471s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003502s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2017-11-06T15:51:01+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Login/login_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+SQL: SHOW COLUMNS FROM `yixue_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `yixue_user` WHERE ( user_account = 'admin' and user_pwd = '698d51a19d8a121ce581499d7b701668' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003355s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003393s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-11-06T15:51:02+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000344s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003269s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-11-06T15:51:02+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003435s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003468s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-11-06T15:51:02+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+SQL: select DISTINCT CONCAT(power_controller,'/',power_action) as qx,yixue_power.* from yixue_power where power_status=1; [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006084s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006116s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-11-06T15:51:02+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003746s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003782s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-11-06T15:51:07+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined variable: arr /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/4893aee25586c54d5766b1255158d6f1.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005428s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005459s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-11-06T15:51:07+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_update.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002966s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-11-06T15:51:08+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: arr /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/4893aee25586c54d5766b1255158d6f1.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005370s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005408s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-11-06T15:51:10+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Role/role_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+SQL: SHOW COLUMNS FROM `yixue_role` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `yixue_role`  [ RunTime:0.0154s ]
+SQL: SHOW COLUMNS FROM `yixue_power_role` [ RunTime:0.0019s ]
+SQL: SELECT `power_name` FROM `yixue_power_role` left join yixue_power on yixue_power_role.yixue_power_id = yixue_power.power_id  WHERE ( yixue_role_id=8 )  [ RunTime:0.0020s ]
+SQL: SELECT `power_name` FROM `yixue_power_role` left join yixue_power on yixue_power_role.yixue_power_id = yixue_power.power_id  WHERE ( yixue_role_id=9 )  [ RunTime:0.0018s ]
+SQL: SELECT `power_name` FROM `yixue_power_role` left join yixue_power on yixue_power_role.yixue_power_id = yixue_power.power_id  WHERE ( yixue_role_id=18 )  [ RunTime:0.0017s ]
+NOTIC: [2] implode(): Invalid arguments passed /var/www/html/yantian/xianshang/Application/Admin/Controller/RoleController.class.php 第 11 行.
+SQL: SELECT `power_name` FROM `yixue_power_role` left join yixue_power on yixue_power_role.yixue_power_id = yixue_power.power_id  WHERE ( yixue_role_id=16 )  [ RunTime:0.0017s ]
+NOTIC: [2] implode(): Invalid arguments passed /var/www/html/yantian/xianshang/Application/Admin/Controller/RoleController.class.php 第 11 行.
+SQL: SELECT `power_name` FROM `yixue_power_role` left join yixue_power on yixue_power_role.yixue_power_id = yixue_power.power_id  WHERE ( yixue_role_id=17 )  [ RunTime:0.0017s ]
+NOTIC: [2] implode(): Invalid arguments passed /var/www/html/yantian/xianshang/Application/Admin/Controller/RoleController.class.php 第 11 行.
+SQL: SELECT `power_name` FROM `yixue_power_role` left join yixue_power on yixue_power_role.yixue_power_id = yixue_power.power_id  WHERE ( yixue_role_id=15 )  [ RunTime:0.0018s ]
+SQL: SELECT `power_name` FROM `yixue_power_role` left join yixue_power on yixue_power_role.yixue_power_id = yixue_power.power_id  WHERE ( yixue_role_id=19 )  [ RunTime:0.0017s ]
+NOTIC: [2] implode(): Invalid arguments passed /var/www/html/yantian/xianshang/Application/Admin/Controller/RoleController.class.php 第 11 行.
+SQL: SELECT `power_name` FROM `yixue_power_role` left join yixue_power on yixue_power_role.yixue_power_id = yixue_power.power_id  WHERE ( yixue_role_id=20 )  [ RunTime:0.0018s ]
+NOTIC: [2] implode(): Invalid arguments passed /var/www/html/yantian/xianshang/Application/Admin/Controller/RoleController.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005185s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005218s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-11-06T15:51:11+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Students/students_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_name`,`students_tel`,`students_sex`,`students_school`,`students_garde`,`students_course`,`students_patriarch`,`patriarch_tel`,`students_birthday`,`students_home` FROM `yixue_students`  [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: user_id /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 74 行.
+NOTIC: [8] Undefined index: students_accredit /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 79 行.
+NOTIC: [8] Undefined index: students_campus /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 81 行.
+NOTIC: [8] Undefined index: user_id /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 74 行.
+NOTIC: [8] Undefined index: students_accredit /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 79 行.
+NOTIC: [8] Undefined index: students_campus /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 81 行.
+NOTIC: [8] Undefined index: user_id /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 74 行.
+NOTIC: [8] Undefined index: students_accredit /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 79 行.
+NOTIC: [8] Undefined index: students_campus /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 81 行.
+NOTIC: [8] Undefined index: user_id /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 74 行.
+NOTIC: [8] Undefined index: students_accredit /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 79 行.
+NOTIC: [8] Undefined index: students_campus /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 81 行.
+NOTIC: [8] Undefined index: user_id /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 74 行.
+NOTIC: [8] Undefined index: students_accredit /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 79 行.
+NOTIC: [8] Undefined index: students_campus /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 81 行.
+NOTIC: [8] Undefined index: user_id /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 74 行.
+NOTIC: [8] Undefined index: students_accredit /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 79 行.
+NOTIC: [8] Undefined index: students_campus /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 81 行.
+NOTIC: [8] Undefined index: user_id /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 74 行.
+NOTIC: [8] Undefined index: students_accredit /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 79 行.
+NOTIC: [8] Undefined index: students_campus /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 81 行.
+NOTIC: [8] Undefined index: user_id /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 74 行.
+NOTIC: [8] Undefined index: students_accredit /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 79 行.
+NOTIC: [8] Undefined index: students_campus /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 81 行.
+NOTIC: [8] Undefined index: user_id /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 74 行.
+NOTIC: [8] Undefined index: students_accredit /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 79 行.
+NOTIC: [8] Undefined index: students_campus /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 81 行.
+NOTIC: [8] Undefined index: user_id /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 74 行.
+NOTIC: [8] Undefined index: students_accredit /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 79 行.
+NOTIC: [8] Undefined index: students_campus /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 81 行.
+NOTIC: [8] Undefined index: user_id /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 74 行.
+NOTIC: [8] Undefined index: students_accredit /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 79 行.
+NOTIC: [8] Undefined index: students_campus /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 81 行.
+NOTIC: [8] Undefined index: user_id /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 74 行.
+NOTIC: [8] Undefined index: students_accredit /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 79 行.
+NOTIC: [8] Undefined index: students_campus /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 81 行.
+NOTIC: [8] Undefined index: user_id /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 74 行.
+NOTIC: [8] Undefined index: students_accredit /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 79 行.
+NOTIC: [8] Undefined index: students_campus /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/b6ccebea78df9bbbf91599efb32fb070.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006622s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-11-06T15:51:15+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000360s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] Undefined variable: arr /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/4893aee25586c54d5766b1255158d6f1.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008904s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-11-06T15:51:15+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_update.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002903s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002938s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-11-06T15:51:16+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/./Public/top.html): failed to open stream: No such file or directory /var/www/html/yantian/xianshang/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Undefined variable: arr /var/www/html/yantian/xianshang/Application/Runtime/Cache/Admin/4893aee25586c54d5766b1255158d6f1.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-11-06T15:51:17+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004190s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004223s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-11-06T15:51:21+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-11-06T15:53:46+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004197s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-11-06T15:53:51+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-11-06T15:55:13+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: INSERT INTO `class_read` (`read_text`,`read_title`,`read_time`,`read_type_id`,`topic_timu`,`topic_text`,`yes_no`,`topic_spell`,`add_time`) VALUES ('请问请问','123','3','1','去问我去饿我去','请问','1','驱蚊器问问去恶趣味请问','1509954913'),('请问请问','123','3','1','去问我去饿我去','驱蚊器恶趣味','0','驱蚊器问问去恶趣味请问','1509954913'),('请问请问','123','3','1','去问我去饿我去','请问请问','0','驱蚊器问问去恶趣味请问','1509954913'),('请问请问','123','3','1','去问我去饿我去','去问我去饿','0','驱蚊器问问去恶趣味请问','1509954913'),('请问请问','123','3','1','去问我去饿我去','请问','1','驱蚊器问问去恶趣味请问','1509954913'),('请问请问','123','3','1','去问我去饿我去','驱蚊器恶趣味','0','驱蚊器问问去恶趣味请问','1509954913'),('请问请问','123','3','1','去问我去饿我去','请问请问','0','驱蚊器问问去恶趣味请问','1509954913'),('请问请问','123','3','1','去问我去饿我去','去问我去饿','0','驱蚊器问问去恶趣味请问','1509954913'),('请问请问','123','3','1','去问我去饿我去','请问','1','驱蚊器问问去恶趣味请问','1509954913'),('请问请问','123','3','1','去问我去饿我去','驱蚊器恶趣味','0','驱蚊器问问去恶趣味请问','1509954913'),('请问请问','123','3','1','去问我去饿我去','请问请问','0','驱蚊器问问去恶趣味请问','1509954913'),('请问请问','123','3','1','去问我去饿我去','去问我去饿','0','驱蚊器问问去恶趣味请问','1509954913') [ RunTime:0.0043s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003427s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2017-11-06T15:55:14+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004107s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004140s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-11-06T15:56:03+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+SQL: SHOW COLUMNS FROM `class_read` [ RunTime:0.0022s ]
+SQL: INSERT INTO `class_read` (`read_text`,`read_title`,`read_time`,`read_type_id`,`topic_timu`,`topic_text`,`yes_no`,`topic_spell`,`add_time`) VALUES ('请问请问啊撒大苏打撒旦','生生世世','0','1','生生世世','杀杀杀','0','啊撒大苏打撒旦','1509954963'),('请问请问啊撒大苏打撒旦','生生世世','0','1','生生世世','顶顶顶','1','啊撒大苏打撒旦','1509954963'),('请问请问啊撒大苏打撒旦','生生世世','0','1','生生世世','反反复复','0','啊撒大苏打撒旦','1509954963'),('请问请问啊撒大苏打撒旦','生生世世','0','1','生生世世','古古怪怪','0','啊撒大苏打撒旦','1509954963'),('请问请问啊撒大苏打撒旦','生生世世','0','1','生生世世','杀杀杀','0','345','1509954963'),('请问请问啊撒大苏打撒旦','生生世世','0','1','生生世世','顶顶顶','1','345','1509954963'),('请问请问啊撒大苏打撒旦','生生世世','0','1','生生世世','反反复复','0','345','1509954963'),('请问请问啊撒大苏打撒旦','生生世世','0','1','生生世世','古古怪怪','0','345','1509954963'),('请问请问啊撒大苏打撒旦','生生世世','0','1','生生世世','杀杀杀','0','345345','1509954963'),('请问请问啊撒大苏打撒旦','生生世世','0','1','生生世世','顶顶顶','1','345345','1509954963'),('请问请问啊撒大苏打撒旦','生生世世','0','1','生生世世','反反复复','0','345345','1509954963'),('请问请问啊撒大苏打撒旦','生生世世','0','1','生生世世','古古怪怪','0','345345','1509954963') [ RunTime:0.0043s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003448s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-11-06T15:56:04+08:00 ] 101.30.4.209 /yantian/xianshang/admin.php/Read/read_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004359s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004408s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+

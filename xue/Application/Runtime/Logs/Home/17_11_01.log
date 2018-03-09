@@ -1,0 +1,1483 @@
+[ 2017-11-01T09:39:51+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-11-01T09:40:27+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-11-01T09:41:23+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-11-01T09:41:48+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000344s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-11-01T09:42:11+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'ffc6e789b53005d7881faaa59e843c75' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-11-01T09:42:12+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'ffc6e789b53005d7881faaa59e843c75' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000326s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-11-01T09:42:12+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'ffc6e789b53005d7881faaa59e843c75' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-11-01T09:42:13+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'ffc6e789b53005d7881faaa59e843c75' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-11-01T09:42:13+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-11-01T09:42:17+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0023s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-11-01T09:42:30+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-11-01T09:43:15+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-11-01T09:43:37+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-11-01T09:44:10+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T09:44:40+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-11-01T09:45:16+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-11-01T09:46:31+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T09:46:40+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0019s ]
+
+[ 2017-11-01T09:47:25+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T09:47:31+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T09:48:10+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0023s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-11-01T09:48:22+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-11-01T09:48:40+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T09:48:54+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T09:53:51+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T09:53:56+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0019s ]
+
+[ 2017-11-01T10:07:16+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T10:08:08+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T10:08:39+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-11-01T10:08:44+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-11-01T10:08:53+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T10:08:57+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T10:09:07+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0023s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T10:09:10+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0024s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T10:10:09+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-11-01T10:10:18+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000341s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-11-01T10:10:19+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-11-01T10:10:20+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-11-01T10:10:26+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+
+[ 2017-11-01T10:10:34+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = '68c42b2e326925663d5a967abe32aa5c' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-11-01T10:10:34+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = '68c42b2e326925663d5a967abe32aa5c' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-11-01T10:10:35+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = '68c42b2e326925663d5a967abe32aa5c' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-11-01T10:10:35+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0023s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = '68c42b2e326925663d5a967abe32aa5c' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-11-01T10:10:36+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0023s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-11-01T10:10:36+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-11-01T10:10:37+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-11-01T10:10:38+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-11-01T10:10:38+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-11-01T10:10:42+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-11-01T10:28:20+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/Test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+ERR: 非法操作:Test
+
+[ 2017-11-01T10:28:31+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+SQL: SHOW COLUMNS FROM `yixue_test` [ RunTime:0.0021s ]
+SQL: SELECT `test_id` FROM `yixue_test`  [ RunTime:0.0017s ]
+SQL: select * from word_mean where word_level_id = 1 ORDER BY rand() limit 10 [ RunTime:0.0028s ]
+SQL: select * from word_mean where word_level_id = 2 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select * from word_mean where word_level_id = 3 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select * from word_mean where word_level_id = 4 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select * from word_mean where word_level_id = 5 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select * from word_mean where word_level_id = 6 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+SQL: select * from word_mean where word_level_id = 7 ORDER BY rand() limit 10 [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-11-01T10:42:52+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-11-01T10:43:35+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-11-01T10:45:05+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-11-01T10:45:29+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-11-01T10:47:04+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-11-01T10:50:07+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+ERR: 1146:Table 'yixue.aes' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `aes`
+ERR: 1146:Table 'yixue.aes' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `aes`
+
+[ 2017-11-01T10:51:58+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+ERR: 1146:Table 'yixue.aes' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `aes`
+ERR: 1146:Table 'yixue.aes' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `aes`
+
+[ 2017-11-01T10:52:48+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-11-01T10:53:00+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-11-01T10:53:13+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '136' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-11-01T10:53:20+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'be8fe4c12c4e43217c06098a2595a950' ) LIMIT 1   [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-11-01T10:53:27+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'e6c2aed9ea13f563a9dfa19ac22c5be4' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-11-01T10:53:35+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0023s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'ffc6e789b53005d7881faaa59e843c75' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-11-01T10:53:37+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'ffc6e789b53005d7881faaa59e843c75' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-11-01T10:53:40+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-11-01T10:53:50+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-11-01T10:56:03+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-11-01T10:56:07+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-11-01T10:56:12+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = '44a1bbfd6c629529aab2fb8d02ebe265' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-11-01T10:56:13+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = '44a1bbfd6c629529aab2fb8d02ebe265' ) LIMIT 1   [ RunTime:0.0017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-11-01T10:56:14+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = '44a1bbfd6c629529aab2fb8d02ebe265' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-11-01T10:56:14+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = '44a1bbfd6c629529aab2fb8d02ebe265' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2017-11-01T10:56:20+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-11-01T10:56:36+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-11-01T10:57:57+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369402' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-11-01T10:58:05+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-11-01T10:58:08+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-11-01T10:58:08+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+
+[ 2017-11-01T10:58:09+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-11-01T10:58:10+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-11-01T10:58:11+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-11-01T10:58:11+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-11-01T10:58:12+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-11-01T10:58:12+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-11-01T10:58:13+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-11-01T10:58:14+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-11-01T10:58:15+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-11-01T10:58:23+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-11-01T10:58:32+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '13611369403' and students_pwd = 'a67f7786114660ba9d791dc094fb0cde' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-11-01T10:58:49+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-11-01T11:15:32+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2017-11-01T11:15:43+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-11-01T11:15:48+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_tel`,`students_id` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='a67f7786114660ba9d791dc094fb0cde' WHERE ( students_id = '11' ) [ RunTime:0.0034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-11-01T11:17:16+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/SendSmsCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-11-01T11:18:24+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/SendSmsCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-11-01T11:20:22+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/SendSmsCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-11-01T11:21:59+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/SendSmsCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-11-01T11:23:29+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000544s ]
+
+[ 2017-11-01T11:23:48+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0023s ]
+SQL: SELECT `students_tel`,`students_id` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-11-01T11:23:53+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_tel`,`students_id` FROM `yixue_students` WHERE ( students_tel = '13611369402' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='3049a1f0f1c808cdaa4fbed0e01649b1' WHERE ( students_id = '1' ) [ RunTime:0.0049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-11-01T11:24:14+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-11-01T11:26:43+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='3049a1f0f1c808cdaa4fbed0e01649b1' WHERE ( students_tel = '13611369402' ) [ RunTime:0.0046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-11-01T11:27:19+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='6d5b99e2462271fc96ae32a5266fca93' WHERE ( students_tel = '13611369402' ) [ RunTime:0.0044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-11-01T11:27:22+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='6d5b99e2462271fc96ae32a5266fca93' WHERE ( students_tel = '13611369402' ) [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-11-01T11:27:37+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='3049a1f0f1c808cdaa4fbed0e01649b1' WHERE ( students_tel = '13611369402' ) [ RunTime:0.0041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-11-01T11:27:57+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='3049a1f0f1c808cdaa4fbed0e01649b1' WHERE ( students_tel = '13611369402' ) [ RunTime:0.0186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-11-01T11:27:59+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='3049a1f0f1c808cdaa4fbed0e01649b1' WHERE ( students_tel = '13611369402' ) [ RunTime:0.0039s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-11-01T11:28:01+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='2f7b52aacfbf6f44e13d27656ecb1f59' WHERE ( students_tel = '13611369402' ) [ RunTime:0.0050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-11-01T11:28:11+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='2f7b52aacfbf6f44e13d27656ecb1f59' WHERE ( students_tel = '13611369402' ) [ RunTime:0.0039s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-11-01T11:32:01+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000344s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='2f7b52aacfbf6f44e13d27656ecb1f59' WHERE ( students_tel = '13611369402' ) [ RunTime:0.0043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-11-01T11:40:59+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='2f7b52aacfbf6f44e13d27656ecb1f59' WHERE ( students_tel = '13611369402' ) [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-11-01T11:41:01+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='dc8843d71b7a710fb1d95fa116b8d2d7' WHERE ( students_tel = '13611369402' ) [ RunTime:0.0039s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-11-01T11:41:07+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='3049a1f0f1c808cdaa4fbed0e01649b1' WHERE ( students_tel = '13611369402' ) [ RunTime:0.0039s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-11-01T11:41:16+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/update_pwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: UPDATE `yixue_students` SET `students_pwd`='3049a1f0f1c808cdaa4fbed0e01649b1' WHERE ( students_tel = '13611369403' ) [ RunTime:0.0041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-11-01T11:42:09+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/SendSmsCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-11-01T11:42:11+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/SendSmsCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-11-01T11:42:11+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/SendSmsCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-11-01T11:42:12+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/SendSmsCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-11-01T11:42:12+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/SendSmsCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-11-01T11:42:12+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/SendSmsCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-11-01T11:42:13+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/SendSmsCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-11-01T11:42:13+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/SendSmsCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-11-01T14:14:29+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_tel` FROM `yixue_students` WHERE ( students_tel = '13611369403' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T14:14:39+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_tel` FROM `yixue_students` WHERE ( students_tel = '152' ) LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-11-01T21:09:00+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-11-01T21:11:38+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0022s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-11-01T21:12:01+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+SQL: SHOW COLUMNS FROM `yixue_students` [ RunTime:0.0023s ]
+SQL: SELECT `students_id`,`students_tel`,`students_pwd`,`students_time` FROM `yixue_students` WHERE ( students_tel = '15810395512' ) LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-11-01T21:30:59+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/SendSmsCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-11-01T21:31:10+08:00 ] 101.30.4.209 /yantian/xianshang/index.php/Home/Index/SendSmsCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+
